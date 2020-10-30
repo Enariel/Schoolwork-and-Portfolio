@@ -1,0 +1,10 @@
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\ScoreCalculator\obj\Debug\ScoreCalculator.csprojAssemblyReference.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\ScoreCalculator\obj\Debug\ScoreCalculator.frmScoreCalc.resources
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\ScoreCalculator\obj\Debug\ScoreCalculator.pdb

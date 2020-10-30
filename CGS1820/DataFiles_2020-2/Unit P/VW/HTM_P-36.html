@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>Special Orders from Revisions Bookstore &amp; Cafe</title>
+      <!--
+         Revisions Bookstore and Cafe Special Orders page
+         Filename: order.html
+      
+         Author:   
+         Date:     
+         HTML5 and CSS3 Illustrated Unit P, Visual Workshop
+      -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <script src="modernizr-latest.js"></script>
+      <link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,900' rel='stylesheet' type='text/css'>
+      <link rel="stylesheet" href="styles.css">
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="icon" sizes="192x192" href="images/android.png">
+   </head>
+   <body>
+      <div class="container">
+         <p class="skipnavigation"><a href="#contentstart">Skip navigation</a></p>
+         <header>
+            <h1>Revisions Bookstore &amp; Cafe</h1>
+            <div>
+               <img src="images/logo.gif" width="120" height="100" alt="">
+            </div>
+         </header>
+         <nav class="sitenavigation">
+            <ul>
+               <li><a href="index.html">Home</a></li>
+               <li><a href="releases.html">New Books</a></li>
+               <li><a href="order.html">Special Orders</a></li>
+            </ul>
+         </nav>
+         <article id="contentstart">
+            <div class="container">
+               <h2>Special Orders</h2>
+               <form action="results.html">
+                  <p class="form-instructions">
+                     (please provide either Email or Phone)
+                  </p>
+                  <fieldset class="contactinfo">
+                     <label for="nameinput">
+                        Name
+                        <input type="text" id="nameinput" name="name">
+                     </label>
+                     <label for="emailinput">
+                        Email
+                        <input type="email" id="emailinput" name="email">
+                     </label>
+                     <label for="phoneinput">
+                        Phone
+                        <input type="tel" id="phoneinput" name="phone">
+                     </label>
+                  </fieldset>
+                   <fieldset class="feedback">
+                     <label for="feedback">
+                        Title, Author, ISBN, or any information you have on the book or books you want
+                        <textarea id="feedback" name="feedback" rows="5"></textarea>
+                     </label>
+                  </fieldset>
+                  <fieldset class="button">
+                     <input type="submit" id="submit" value="Submit">
+                  </fieldset>
+               </form>
+            </div>
+         </article>
+         <aside>
+            <p>Custom brewed coffee and hand-selected books.</p>
+            <p>Special orders are our specialty.</p>
+         </aside>
+         <footer>
+            <p>412 N. 25th St.</p>
+            <p>Richmond, VA 23223</p>
+            <p>(804) 555-2565</p>
+         </footer>
+      </div>
+   </body>
+</html>

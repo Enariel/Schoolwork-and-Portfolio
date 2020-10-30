@@ -1,0 +1,12 @@
+c:\users\ecstudent\documents\visual studio 2015\Projects\myFirstCSharpForm\myFirstCSharpForm\bin\Debug\myFirstCSharpForm.exe.config
+c:\users\ecstudent\documents\visual studio 2015\Projects\myFirstCSharpForm\myFirstCSharpForm\bin\Debug\myFirstCSharpForm.exe
+c:\users\ecstudent\documents\visual studio 2015\Projects\myFirstCSharpForm\myFirstCSharpForm\bin\Debug\myFirstCSharpForm.pdb
+c:\users\ecstudent\documents\visual studio 2015\Projects\myFirstCSharpForm\myFirstCSharpForm\obj\Debug\myFirstCSharpForm.csprojResolveAssemblyReference.cache
+c:\users\ecstudent\documents\visual studio 2015\Projects\myFirstCSharpForm\myFirstCSharpForm\obj\Debug\myFirstCSharpForm.myFirstCSharpForm.resources
+c:\users\ecstudent\documents\visual studio 2015\Projects\myFirstCSharpForm\myFirstCSharpForm\obj\Debug\myFirstCSharpForm.Properties.Resources.resources
+c:\users\ecstudent\documents\visual studio 2015\Projects\myFirstCSharpForm\myFirstCSharpForm\obj\Debug\myFirstCSharpForm.csproj.GenerateResource.Cache
+c:\users\ecstudent\documents\visual studio 2015\Projects\myFirstCSharpForm\myFirstCSharpForm\obj\Debug\myFirstCSharpForm.exe
+c:\users\ecstudent\documents\visual studio 2015\Projects\myFirstCSharpForm\myFirstCSharpForm\obj\Debug\myFirstCSharpForm.pdb
+E:\C#\myFirstCSharpForm\myFirstCSharpForm\bin\Debug\myFirstCSharpForm.exe.config
+E:\C#\myFirstCSharpForm\myFirstCSharpForm\obj\Debug\myFirstCSharpForm.exe
+E:\C#\myFirstCSharpForm\myFirstCSharpForm\obj\Debug\myFirstCSharpForm.pdb

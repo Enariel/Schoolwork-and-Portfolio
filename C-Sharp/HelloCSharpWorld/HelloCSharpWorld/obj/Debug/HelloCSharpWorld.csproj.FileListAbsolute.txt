@@ -1,0 +1,8 @@
+C:\Users\briosor\Documents\Fall 2019\COP 2360\HelloCSharpWorld\HelloCSharpWorld\bin\Debug\HelloCSharpWorld.exe.config
+C:\Users\briosor\Documents\Fall 2019\COP 2360\HelloCSharpWorld\HelloCSharpWorld\bin\Debug\HelloCSharpWorld.exe
+C:\Users\briosor\Documents\Fall 2019\COP 2360\HelloCSharpWorld\HelloCSharpWorld\bin\Debug\HelloCSharpWorld.pdb
+C:\Users\briosor\Documents\Fall 2019\COP 2360\HelloCSharpWorld\HelloCSharpWorld\obj\Debug\HelloCSharpWorld.Form1.resources
+C:\Users\briosor\Documents\Fall 2019\COP 2360\HelloCSharpWorld\HelloCSharpWorld\obj\Debug\HelloCSharpWorld.Properties.Resources.resources
+C:\Users\briosor\Documents\Fall 2019\COP 2360\HelloCSharpWorld\HelloCSharpWorld\obj\Debug\HelloCSharpWorld.csproj.GenerateResource.Cache
+C:\Users\briosor\Documents\Fall 2019\COP 2360\HelloCSharpWorld\HelloCSharpWorld\obj\Debug\HelloCSharpWorld.exe
+C:\Users\briosor\Documents\Fall 2019\COP 2360\HelloCSharpWorld\HelloCSharpWorld\obj\Debug\HelloCSharpWorld.pdb

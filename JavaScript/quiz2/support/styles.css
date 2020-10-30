@@ -1,0 +1,174 @@
+/*
+ 	Student Name: Oliver Conover
+	File Name: quiz2 index.html
+	Date: 29/10/2020
+*/
+
+/************************************************************************
+*                                                                       *
+*   You are welcome to modify any/all style rules as you see fit.       *
+*   You are welcome to add any new style rules as you see fit.          *
+*   You are welcome to create any new selectors as you see fit.         *
+*                                                                       *
+*************************************************************************/
+
+/* CSS Reset */
+body, header, h1, article, h2, div, form, h3, fieldset, legend, label, input, textarea, section {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+* {
+   box-sizing: border-box;
+}
+
+body {
+   background: #e9dffb;
+   margin: 0 auto;
+   font-family: Arial, Helvetica, sans-serif; 
+}
+
+#container {
+	margin: 0 auto;
+	width: 80%;
+}
+
+header {
+   background: #300d6e;
+   color: #fff;
+   font-size: 3em;
+   text-align: center;
+   line-height: 3.5em;
+   border-bottom: 1px solid black;
+}
+
+article {
+   text-align: left;
+   background: #905bec;
+   padding: 20px;
+   overflow: auto;
+}
+
+h2 {
+   font-weight: bold;
+   font-size: 30px;
+   text-align: center;
+   width: 65%;
+}
+
+/* Form style rules */
+form {
+   padding: 10px;
+   width: 65%;
+   float: left;
+}
+
+fieldset {
+   margin-bottom: 10px;
+   position: relative;
+   padding: 2.5em 1em 0.5em 1em;
+   background: #e9dffb;
+}
+
+fieldset, label, input, textarea  { 
+    margin-bottom: 2%;
+	display: block;
+}
+
+fieldset legend {
+    font-weight: bold;
+    font-size: 1.25em;
+	position: absolute;
+	top: 0;
+	left: 0;
+	font-size: 1.25em;
+	margin-left: 2%;
+}
+
+label {
+    padding-top: 1%;
+}
+
+legend, #submitBtn, #issuelabel {
+   font-family: Verdana, Arial, sans-serif;
+   font-weight: bold;
+}
+
+input, textarea {
+   font-size: 1em;
+}
+
+#nameinput, #emailinput, #deptinput, #locationinput, #phoneinput {
+   width: 20em;
+   line-height: 2em;
+}
+
+#issuelabel {
+   display: block;
+   margin: 1em 0 0.5em 0;
+}
+
+textarea {
+   margin-bottom: 1em;
+}
+
+#submitBtn {
+   font-size: 1.25em;
+   padding: 4%;
+   border-radius: 5px;
+   background-color: #e9dffb;
+}
+
+#submitbutton {
+   background: inherit;
+   border: none;
+   padding: 0.5em 0 0 0;
+   text-align: center;
+}
+
+/* Style rules for hidden section */
+section {
+   float: right;
+   width: 34%;
+   background: #fff;
+   border: 3px solid #300d6e;
+   margin-top: 10px;
+   display: none;
+}
+
+section h2 {
+   width: 100%;
+   color: #300d6e;
+   padding: 5px;
+}
+
+section div {
+   margin-left: 20px;
+   display: none;
+   padding: 10px;
+}
+
+section div p {
+   margin-bottom: 5%;
+}
+
+h3 {
+   font-family: Verdana, Arial, sans-serif;
+   font-weight: bold;
+   font-size: 1.25em;
+   margin: 0.5em 0 0.5em -0.5em;
+}
+
+/* Style rule for errorMessage */
+#errorMessage {
+   display: none;
+   width: 80%;
+   text-align: center;
+   padding: 10px;
+   margin: 15px auto 5px;
+   background-color: #fff;
+   color: #ff0000;
+   border: 5px solid #000;
+   font-weight: bold;
+}

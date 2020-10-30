@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Project 3</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="styles.css">
+   
+</head>
+
+<body>
+
+	<div id="wrapper">
+
+		<header>
+			
+			<h1>Oliver Conover</h1>
+			
+			<h2>Summary of Chapters 6 &amp; 7</h2>
+			
+		</header>
+		
+		<main>
+		
+			<article id="ch6-cond-stmt">
+			<!-- Add a paragraph element here to summarize your understanding of conditional statements. How/when are they useful? -->
+				<p>Conditional statements are a coding must, they dictate the logic a program has to go through and its various paths and endpoints. Conditional statements return a true or false, and code specified within the conditional scope will be executed based on said statements. These statements are useful for doing anything that requires logic in your code, such as comparing values of numbers, data integrity(making sure non-negative numbers are never entered), or otherwise accounting for datatypes(making sure strings aren't ints, floats, longs, or decimals). </p>
+			
+			</article>
+			
+			<article id="ch6-loop">
+			<!-- Add a paragraph element here to summarize your understanding of loops. How/when are they useful? -->
+				<p>Loops are frequently used to sort through or otherwise find something in an array or list. Several types of loops exist (although syntax varies between languages) that can be expressed with the keyword "for" or "foreach". They are useful for finding specific spots (indexes) in an array, or if you would like a piece of code to repeat a set amount of times. You can also terminate code at specified intervals using for loops. Personally, I find foreach-loops useful for creating list of classes, and finding a specified object of said class. I.E. foreach (ClassObj obj in objects[]) { if (obj.id == idIWant){ return obj; } }</p>
+			
+			</article>
+			
+			<article id="ch7-array">
+			<!-- Add a paragraph element here to summarize your understanding of arrays. How/when are they useful? -->
+				<p>Arrays are a datatype that store various instances of another datatype. They are quite literally a specified "list" of objects and arrays have a set "space" or length/count. Array elements are accessed by indexing. These are useful is creating databases, creating slight variations of object classes to be used later, or otherwise keeping track of object instances. Lists function in a similar way, except to my understanding they are much more dynamic in size. </p>
+			
+			</article>
+
+			<button id="buttonDisplay">Press me!!</button>
+
+			<div>
+				<h2>List of Animals</h2>
+				<p id="displayAnimals"></p>
+				<h2>List of Dogs</h2>
+				<p id="displayDogs"></p>
+				<h2>List of Cats</h2>
+				<p id="displayCats"></p>
+				<h2>List of Lizards</h2>
+				<p id="displayLizards"></p>
+				<h2>List of Bugs</h2>
+				<p id="displayBugs"></p>
+				<h2>List of Fish</h2>
+				<p id="displayFish"></p>
+			</div>
+		
+		</main>
+	
+	</div>
+	<script src="script.js"></script>
+</body>
+</html>

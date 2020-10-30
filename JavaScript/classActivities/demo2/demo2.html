@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--
+        Oliver Conover
+        Demo 2
+        Prof. Minnick
+    -->
+    <meta charset="utf-8" />
+    <title>Ch 3 and 4</title>
+</head>
+<body>
+
+    <h1>Working with variables and functions</h1>
+
+    <p id="colour"></p>
+    <p id="animal"></p>
+
+    <button onclick="Colour()">My Colour</button>
+    <button onclick="Animal()">My Animal</button>
+
+    <hr />
+
+    <h3>Datatypes</h3>
+
+    <p id="math"></p>
+
+    <button onclick="MyMath()">Add</button>
+
+    <hr />
+    <p id="cap"></p>
+
+
+    <script>
+        //Global variables
+        var yourName = prompt("What is your name?: ");
+        var yourColor = prompt("What is your favourite colour?: ");
+        var yourAnimal = prompt("What is your favourite animal?: ");
+
+        //Colour function
+        function Colour() {
+            //Local
+            var colorSentence = document.getElementById("colour");
+            colorSentence.style.color = yourColor;
+            colorSentence.textContent = "Hi, my name is " + yourName + " and my favourite colour is " + yourColor + ".";
+            Avenger();
+        }
+        //Animal function
+        function Animal() {
+            var animalSentence = document.getElementById("animal");
+
+            animalSentence.textContent = "My favourite animal is " + yourAnimal;
+        }
+        //Math function
+        function MyMath() {
+            var num1 = 100;
+            var num2 = 200;
+            var num3 = 300;
+
+            var total = num1 + num2 + num3;
+            var someMath = document.getElementById("math");
+
+            //Template literal
+            someMath.textContent = `Now ${yourName} wants to perform some math: ${total}`;
+        }
+        //Captain America Function
+        function Avenger() {
+            var hero = "Captain America";
+            var quote = "I can do this all day!";
+            var heroParagraph = document.getElementById("cap");
+
+            heroParagraph.textContent = `This is what ${hero} would say about JavaScript: ${quote}`;
+        }
+
+    </script>
+
+</body>
+</html>

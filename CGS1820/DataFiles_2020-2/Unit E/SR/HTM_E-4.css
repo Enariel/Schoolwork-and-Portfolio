@@ -1,0 +1,49 @@
+﻿/* 
+   Big J's Deep Dish Pizza 
+   Filename: styles.css
+
+   Author:   
+   Date:     
+   HTML5 and CSS3 Illustrated Unit E, Skills Review
+ */
+
+/* reset styles */
+article, body, div, footer, header, h1, h2, p {
+   border: 0;
+   padding: 0;
+   margin: 0;
+}
+
+/* body and container */
+body {
+   max-width: 960px;
+   margin: 0 auto;
+}
+
+/* headings */
+h1, h2 {
+   text-align: center;
+}
+h2 {
+   padding: 0 0.25em 0.25em;
+   margin: 0;
+   color: red;
+}
+  
+/* main content */
+article {
+   margin: 1em;
+   padding: 1em;
+}
+.contrastbox {
+   width: 30%;
+   padding: 0.5em;
+   margin: 0.5em auto;
+   text-align: center;
+}
+
+/* footer section */
+footer {
+   padding: 0.5em;
+   text-align: center;
+}

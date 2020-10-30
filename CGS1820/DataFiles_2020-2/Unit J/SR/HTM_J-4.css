@@ -1,0 +1,170 @@
+﻿/* 
+   Big J's Deep Dish Pizza 
+   Filename: styles.css
+
+   Author:   
+   Date:     
+   HTML5 and CSS3 Illustrated Unit J, Skills Review
+ */
+
+/* reset styles */
+html {
+   font-size: 19px;
+}
+a, article, body, div, figcaption, figure, footer, header, h1, 
+h2, h3, img, li, nav, p, section, ul {
+   border: 0;
+   padding: 0;
+   margin: 0;
+}
+img {
+   max-width: 100%;
+   height: auto;
+   width: auto;
+}
+ul {
+   list-style-type: none;
+}
+
+/* body and container */
+body {
+   max-width: 960px;
+   margin: 0 auto;
+   background: #ddd;
+   background: url("images/brick.jpg");
+   font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+   background-color: #ffcc66;
+   position: relative;
+}
+p {
+   line-height: 1.4em;
+}
+a:link {
+   color: black;
+}
+a:visited {
+   color: #888;
+}
+a:active {
+   position: relative;
+   top: 1px;
+   left: 1px;
+}
+
+/* skip navigation link */
+p.skipnavigation a {
+   position: absolute;
+   left: -10000px;
+}
+p.skipnavigation a:focus {
+   color: #34180f;
+   background-color: snow;
+   top: 0.4em;
+   left: auto;
+   right: 0.4em;
+   z-index: 2;
+   font-weight: bold;
+   text-decoration: none;
+}
+
+/* header section */
+header {
+   padding-bottom: 0.4em;
+}
+h1 {
+   text-align: center;
+   font-family: "Playfair Display", "Times New Roman", Times, serif;
+   font-size: 2.5em;
+   font-weight: 900;
+}
+p.decorative-image {
+   width: 30%;
+   padding-top: 1em;
+   float: left;
+}
+
+/* site navigation */
+nav.sitenavigation {
+   background-color: rgb(0,0,0);
+   text-align: center;
+   overflow: auto;
+}
+nav.sitenavigation li {
+   padding: 0.3em 0;
+   display: inline-block;
+}
+nav.sitenavigation li a {
+   padding: 0.2em 0.6em;
+   display: inline-block;
+}
+nav.sitenavigation a:link {
+   text-decoration: none;
+   color: snow;
+}
+nav.sitenavigation a:visited {
+   color: #cccccc;
+}
+nav.sitenavigation a:hover, nav.sitenavigation a:focus {
+   color: #ff0000;
+   background-color: snow;
+}
+
+/* main content */
+article {
+   margin: 0 auto;
+   padding: 1em 1em 2em;
+   position: relative;
+   overflow: auto;
+   text-align: left;
+   background-color: #e3d5ba;
+}
+h2, h3 {
+   padding-bottom: 0.25em;
+   margin: 0;
+   color: red;
+   font-family: "Playfair Display", "Times New Roman", Times, serif;
+   font-weight: 900;
+   text-align: center;
+}
+h2 {
+   font-size: 1.75em;
+}
+h3 {
+   font-size: 1.25em;
+}
+
+/* footer section */
+footer {
+   margin-left: 30%;
+   padding: 1em;
+   background-color: black;
+   color: white;
+}
+footer {
+   padding: 0.5em 5%;
+   text-align: right;
+}
+footer p.accent {
+   margin-bottom: 0.4em;
+   font-weight: bold;
+}
+
+/* print styles */
+@media print {
+   body, h2, article {
+      color: rgb(0,0,0);
+      background: rgb(255,255,255);
+   }
+   body {
+      max-width: 100%;
+   }
+   nav {
+      display: none;
+   }
+}
+@page {
+   margin: 0.75in;
+}
+

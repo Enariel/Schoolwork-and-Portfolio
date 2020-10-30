@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>Big J&rsquo;s Deep Dish Pizza - Order Online</title>
+      <!-- 
+         Big J's Deep Dish Pizza - Order Online
+         Filename: order.html
+
+         Author:   
+         Date:     
+         HTML5 and CSS3 Illustrated Unit J, Skills Review
+      -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <script src="modernizr.custom.40753.js"></script>
+      <link href='http://fonts.googleapis.com/css?family=Playfair+Display:900' rel='stylesheet' type='text/css'>
+      <link rel="stylesheet" href="styles.css">
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="icon" sizes="192x192" href="images/android.png">
+   </head>
+   <body>
+      <div class="container">
+         <p class="skipnavigation"><a href="#contentstart">Skip navigation</a></p> 
+         <header>
+            <p class="decorative-image"><a href="index.html"><img src="images/bigjs.gif" width="280" height="280" alt="Big J's Deep Dish Pizza"></a></p>
+            <h1>Big J&rsquo;s Deep Dish Pizza</h1>
+         </header>
+         <nav class="sitenavigation">
+            <ul>
+               <li><a href="index.html">Home</a></li>
+               <li><a href="history.html">History</a></li>
+               <li><a href="location.html">Locations</a></li>
+               <li><a href="events.html">Special Events</a></li>
+               <li><a href="order.html">Order Online</a></li>
+            </ul>
+         </nav>
+         <article id="contentstart">
+            <h2>Your form has been submitted</h2>
+               <h3>You entered the following data:</h3>
+         
+               <script>
+                   var formData = location.search;
+                   formData = formData.substring(1, formData.length);
+                   while (formData.indexOf("+") !== -1) {
+                      formData = formData.replace("+", " ");
+                   }
+                   formData = decodeURIComponent(formData);
+                   var formArray = formData.split("&");
+                   for (var i = 0; i < formArray.length; i = i + 1) {
+                      document.write("<p>" + formArray[i] + "</p>");
+                   }
+               </script>
+         </article>
+         <footer>
+            <p>150 St. Joseph St.</p>
+            <p class="accent">(416) 555-3337</p>
+            <p>360 Dundas St. W</p>
+            <p class="accent">(416) 555-1011</p>
+            <p>783 St. Clair Ave. W</p>
+            <p class="accent">(416) 555-2047</p>
+         </footer>
+      </div>
+   </body>
+</html>

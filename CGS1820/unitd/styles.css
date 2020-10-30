@@ -1,0 +1,68 @@
+/* 
+   Eating Well in Season style sheet 
+   Filename: styles.css
+
+   Author:   Oliver Conover
+   Date:     13/02/2020
+   HTML5 and CSS3 Illustrated Unit D, Independent Challenge 4
+ */
+/* RESET STYLES */
+body, header, article, article h2, footer {
+	margin: 0;
+	padding: 0;
+	border: 
+}
+/* body and page container */
+body {
+   background-color: silver;
+}
+
+/* headings */
+header {
+   background-color: olive;
+   color: floralwhite;
+   padding: 10px;
+}
+
+/*container*/
+.container {
+	max-width: 800px;
+	margin: auto;
+}
+
+/* position container */
+.positioncontainer {
+   background-color: gold;
+   position: relative;
+   margin: auto;
+}
+
+/*aside*/
+aside {
+	width: 37.5%;
+	position: absolute;
+	top: -12px;
+	right: -15px;
+}
+aside p {
+	margin: auto;
+}
+/* main content */
+article {
+   background-color: floralwhite;
+   width: 62.5%;
+}
+article h2 {
+   background-color: lightskyblue;
+   padding: 5px;
+}
+article p {
+	padding: 5px;
+}
+/* footer section */
+footer {
+   background-color: olive;
+   color: floralwhite;
+   text-align: right;
+   padding: 10px;
+}

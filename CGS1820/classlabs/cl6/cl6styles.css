@@ -1,0 +1,78 @@
+/*
+
+Name:		Oliver Conover
+Date:		18/02/2020
+File Name:	cl6styles.css
+Class Lab: 	class lab 6
+
+*/
+
+/* CSS Reset */
+body, header, nav, main, article, h1, h2, p {
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+
+/* style rules for general page appearance */
+body {
+	background-color: #d9e6f2;
+}
+
+#container {
+	margin: 0 auto;
+	width: 80%;
+}
+
+/* style rules that address box model */
+
+header, nav, main, footer {
+	margin: 1%;
+	padding: 2%;
+	border: 1px solid #000000;
+	background-color: #ffffff;
+}
+
+/* style rules for header area */
+
+header {
+	text-align: center;
+}
+
+/* style rules for nav area */
+
+ul#menu li {
+	display: inline-block;
+	margin: 1% 5%;
+}
+
+/*style rules for pseudo-classes */
+
+nav a:link {
+	color: #214682
+}
+nav a:visited {
+	color: #4f5051
+}
+nav a:hover {
+	color: #bee023
+}
+nav a:active {
+	color: #d4f24d
+}
+/* style rules for main content and footer content */
+
+#main p, footer p {
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+/* style rules for images */
+figure {
+	text-align: center;
+}
+
+img {
+	max-width: 100%;
+}
+
+

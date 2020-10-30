@@ -1,0 +1,39 @@
+﻿BowlerID    BowlerLastName                                     MinHandiScore MaxHandiScore AverageHandiScore
+----------- -------------------------------------------------- ------------- ------------- -----------------
+1           Fournier                                           184           211           195
+2           Fournier                                           174           218           195
+3           Kennedy                                            165           223           196
+4           Sheskey                                            187           202           193
+5           Patterson                                          180           212           194
+6           Patterson                                          174           223           197
+7           Viescas                                            161           224           195
+8           Viescas                                            186           202           193
+9           Black                                              180           211           195
+10          Cunningham                                         168           217           194
+11          Kennedy                                            164           229           195
+12          Viescas                                            186           204           194
+13          Hallmark                                           179           207           193
+14          Hallmark                                           173           217           196
+15          Patterson                                          167           228           197
+16          Sheskey                                            187           201           194
+17          Hernandez                                          177           211           192
+18          Hernandez                                          166           219           195
+19          Viescas                                            168           223           197
+20          Viescas                                            187           203           194
+21          Ehrlich                                            182           208           194
+22          Hallmark                                           163           218           195
+23          Viescas                                            162           223           193
+24          Thompson                                           186           206           196
+25          Patterson                                          181           212           196
+26          Thompson                                           174           229           196
+27          Thompson                                           169           231           198
+28          Viescas                                            184           201           193
+29          Hallmark                                           181           213           196
+30          Patterson                                          168           215           193
+31          Pundt                                              169           225           196
+32          Rosales                                            185           201           193
+
+(32 rows affected)
+
+
+Completion time: 2019-11-03T17:11:06.3509345-05:00

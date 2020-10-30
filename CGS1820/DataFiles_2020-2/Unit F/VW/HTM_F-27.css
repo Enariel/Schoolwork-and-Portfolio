@@ -1,0 +1,102 @@
+﻿/* 
+   Revisions Bookstore and Cafe style sheet 
+   Filename: styles.css
+
+   Author:   
+   Date:     
+   HTML5 and CSS3 Illustrated Unit F, Visual Workshop
+ */
+
+/* reset styles */
+html {
+   font-size: 12px;
+}
+article, body, div, footer, header, h1, h2, nav, p {
+   border: 0;
+   padding: 0;
+   margin: 0;
+}
+
+/* body and page container */
+body {
+   font-family: Verdana, Geneva, sans-serif;
+   background-color: rgb(253,245,230);
+}
+.container {
+   max-width: 640px;
+   margin: 0 auto;
+   background-color: white;
+   position: relative;
+}
+p {
+   font-size: 1.4em;
+}
+
+/* header section */
+header {
+   padding: 0.5em;
+   text-align: center;
+   background-color: #bdccd4;
+   font-family: "Playfair Display", Georgia, "Times New Roman", Times, serif;
+   font-weight: 900;
+}
+header h1 {
+   font-size: 3.2em;
+}
+
+/* main content */
+article {
+   width: 62%;
+   padding: 3%;
+   float: left;
+   background-color: #c69c6d;
+}
+article div.container {
+   padding: 2%;
+   background-color: white;
+}
+article h2 {
+   margin-bottom: 0.4em;
+   font-family: "Playfair Display", Georgia, "Times New Roman", Times, serif;
+   font-weight: 900;
+   font-size: 2em;
+}
+article p {
+   margin: 0 0 0.8em 1em;
+}
+article span {
+   font-weight: bold;
+}
+
+/* sidebar */
+aside {
+   width: 28%;
+   padding: 2%;
+   float: right;
+}
+aside p {
+   padding: 0.4em;
+   margin-bottom: 0.6em;
+   font-size: 1.6em;
+}
+
+/* footer section */
+footer {
+   padding: 0.5em;
+   clear: both;
+   text-align: right;
+   background-color: #bdccd4;
+}
+
+/* print styles */
+@media print {
+   body, h1, article, footer {
+      background-color: rgb(255,255,255);
+   }
+   body {
+      max-width: 100%;
+   }
+}
+@page {
+   margin: 0.75in;
+}

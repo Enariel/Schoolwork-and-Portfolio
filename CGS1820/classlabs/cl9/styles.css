@@ -1,0 +1,97 @@
+﻿/* 
+   Name:
+   Date: 
+   
+ */
+
+/* reset styles */
+
+article, h2, body, fieldset, form, input, label, legend, textarea {
+   border: 0;
+   padding: 0;
+   margin: 0;
+}
+
+/* document-wide styles */
+body {
+   margin: 0 auto;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
+
+/* main content */
+article {
+   margin: 0 auto;
+   padding: 1.4em;
+   background: #7eccec;
+}
+
+h2 {
+   padding: 0.4em;
+   text-align: center;
+   font-family: Georgia, Times, serif;
+   font-size: 2em;
+   font-weight: 700;
+}
+
+/* Form Styles */
+
+form {
+	padding: 10px;
+}
+
+fieldset {
+	margin-bottom: 2%;
+	margin-top: 2%;
+	padding: 1%;
+	border: 1px solid #777;
+}
+
+.custinfo input {
+	left: 10em;
+	position: absolute;
+	border: 1px solid #ccc;
+	padding: .2em;
+	font-size: 1em;
+}
+
+label {
+	font-size: 1em;
+	line-height: 1.6em;
+}
+
+.custinfo label {
+	display: block;
+	position: relative;
+	margin: .8em 0em;
+	padding: 1%;
+}
+
+legend {
+	font-size: 1.25em;
+	font-weight: bold;
+}
+
+.addinfo label {
+	display: block;
+}
+
+.questions label {
+	display: block;
+}
+
+#submit {
+	padding: .4em .6em;
+	font-size: 1.25em;
+	border-radius: 10px;
+	background-color: #e3d5ba;
+}
+
+.submitbutton {
+	text-align: center;
+}

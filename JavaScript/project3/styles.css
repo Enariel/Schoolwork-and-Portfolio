@@ -1,0 +1,22 @@
+/* CSS Reset */
+body, header, main, footer, h1, ul, table, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* You may modify style rules as desired */
+
+body {
+	background-color: #98b4d4;
+	font-family: Verdana, Arial, sans-serif;
+}
+
+#wrapper {
+	width: 80%;
+	margin: 0 auto;
+}
+
+header {
+	text-align: center;
+}

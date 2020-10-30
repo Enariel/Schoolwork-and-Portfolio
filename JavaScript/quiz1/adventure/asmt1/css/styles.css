@@ -1,0 +1,169 @@
+/*
+    Student: Oliver Conover
+    Date:  28/09/2020
+    File Name: styles.css
+*/
+
+/************************************************************************
+*                                                                       *
+*   You are welcome to modify any/all style rules as you see fit.       *
+*   You are welcome to add any new style rules as you see fit.          *
+*   You are welcome to create any new selectors as you see fit.         *
+*                                                                       *
+*************************************************************************/
+
+/* CSS Reset */
+body, header, nav, main, footer, figure, figcaption, img, h1, h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* Style rule for body, image, and box-sizing */
+body {
+    background-color: #e1ecf9;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Style rule for header content */
+header h1 {
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Permanent Marker', cursive;
+    padding: 3%;
+    color: #133863;
+}
+
+/* Style rules for navigation area */
+nav {
+    background-color: #133863;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    font-size: 1.5em;
+    font-family: Verdana, Arial, sans-serif;
+    font-weight: bold;
+}
+
+nav li a {
+    display: block;
+    color: #e1ecf9;
+    padding: 1.5em 2em;
+    text-decoration: none;
+}
+
+/* Style rules for main content area */
+main {
+    padding: 2%;
+    font-family: Geneva, Arial, sans-serif;
+    overflow: auto;
+}
+
+main p {
+    font-size: 1.25em;
+}
+
+main h3 {
+    padding: 2% 0;
+    font-size: 2em;
+    text-align: center;
+    color: #133863;
+}
+
+main div {
+    margin: 0 5%;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 20px; /* if you use your own images, you may need to adjust this value */
+}
+
+.frame {
+    position: relative;
+    max-width: 378px; /* if you use your own images, update this value with the width of your image */
+    margin: 2% auto;
+    cursor: pointer;
+}
+
+.caption {
+    position: absolute;
+    top: 0;
+    background: rgba(19, 56, 99, 0.4); 
+    color: #fff;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.35em;
+    font-weight: bold;
+}
+
+/*Custom Container for text*/
+.descriptionDiv{
+    margin: auto;
+    max-width: 378px;
+    padding: 2%;
+    text-align: center;
+}
+/*Custom button*/
+.buttonStyle {
+    max-width: 378px;
+    width: 378px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: Verdana, Arial, sans-serif;
+    background-color: darkslategray;
+    color: #fff;
+    border-radius: 5px;
+    margin: auto;
+}
+.buttonStyle:hover{
+    background-color: aquamarine;
+    color: black;
+}
+/*Custom result box*/
+.resultBox {
+    margin: auto;
+    margin-top: 15px;
+    padding: 2%;
+    display: inline-block;
+    background-color: #133863;
+    color: #e1ecf9;
+    width: 378px;
+    max-width: 378px;
+    border-radius: 5px;
+}
+
+div.adventure img {
+    cursor: pointer;
+}
+
+/* Style rules for footer content */
+footer {
+    text-align: center;
+    font-size: 0.85em;
+    background-color: #133863;
+    color: #e3eaf8;
+    padding: 1% 0;
+}
+
+footer a {
+    color: #e1ecf9;
+    text-decoration: none;
+}

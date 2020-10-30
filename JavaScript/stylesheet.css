@@ -1,0 +1,103 @@
+/*
+    Oliver Conover
+    JavaScript
+*/
+
+/*
+    Colour Palette
+    #FFFFFF - White
+    #9797C7 - Muted Lavender
+    #8452AB - Violet
+    #A14F87 - Muted Maroon
+    #321C2B - Maroon
+*/
+.headerDiv {
+    margin: auto;
+    text-align: center;
+    border-radius: 25px;
+    background: #8452AB;
+    max-width: 50%;
+    color: #fff;
+    box-shadow: #321C2B 2px 2px 2px;
+}
+.headerDiv h2 {
+    color: #fff;
+}
+.navDiv {
+    margin: auto;
+    text-align: center;
+    border-radius: 25px;
+    background: #A14F87;
+    max-width: 50%;
+    padding-top: .01%;
+    padding-bottom: .01%;
+    padding-left: 0;
+    padding-right: 0;
+    box-shadow: #321C2B 2px 2px 2px;
+}
+.navDiv li {
+    text-decoration: none;
+    color: #FFF;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 1%;
+    border-radius: 50px;
+    width: 100px;
+}
+.navDiv li:hover {
+    box-shadow: #321C2B 2px 2px 2px;
+}
+body {
+    background-color: #9797C7;
+    margin: auto;
+}
+.bodyDiv {
+    margin: auto;
+    text-align: center;
+    border-radius: 25px;
+    background: #FFFFFF;
+    max-width: 50%;
+    box-shadow: #321C2B 2px 2px 2px;
+    width: 50%;
+}
+.bodyDiv h1, h2 {
+    color: #321C2B;
+}
+#mainButton {
+    color: #9797C7;
+    background-color: #321C2B;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    margin: 5px;
+    border-radius: 25px;
+}
+#mainButton:hover, #mainButtonHide:hover {
+    box-shadow: #321C2B 2px 2px 2px;
+}
+#mainButtonHide {
+    color: #321C2B;
+    background-color: #9797C7;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    margin: 5px;
+    border-radius: 25px;
+}
+#revealText {
+    text-align: left;
+    padding: 1%;
+}
+.footerDiv {
+    margin: auto;
+    text-align: right;
+    border-radius: 25px;
+    background: #A14F87;
+    max-width: 50%;
+    color: #FFF;
+    box-shadow: #321C2B 2px 2px 2px;
+}
+.footerDiv p {
+    padding: 1%;
+}

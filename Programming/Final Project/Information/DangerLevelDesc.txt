@@ -1,0 +1,5 @@
+Safe or limited data.
+Generally safe/some limited data. 
+Some danger and or radioactivity.
+Dont eat, probably poison.
+This is either highly radioactive, or highly poisonous. Probably find a hospital if ingested or otherwise adverse reaction.

@@ -1,0 +1,20 @@
+Gnome
+A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter. Gnomes take delight in life, enjoying every moment of invention, exploration, investigation, creation, and play.
+5
+2
+6
+0
+500
+Chaotic/Lawful-Good
+S
+25
+Darkvision
+Gnome Cunning
+-
+-
+-
+2
+8
+16
+16
+16

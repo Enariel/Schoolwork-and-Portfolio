@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\matsu\Google Drive\Sping2020\C++\6.1\Source.cpp(12,35): error C3873: '0x2013': this character is not allowed as a first character of an identifier
+C:\Users\matsu\Google Drive\Sping2020\C++\6.1\Source.cpp(12,41): error C3873: '0x2013': this character is not allowed as a first character of an identifier
+C:\Users\matsu\Google Drive\Sping2020\C++\6.1\Source.cpp(12,35): error C2146: syntax error: missing ']' before identifier '–'
+C:\Users\matsu\Google Drive\Sping2020\C++\6.1\Source.cpp(13,9): error C2143: syntax error: missing ';' before '{'

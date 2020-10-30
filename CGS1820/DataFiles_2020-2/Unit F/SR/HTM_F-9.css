@@ -1,0 +1,135 @@
+﻿/* 
+   Big J's Deep Dish Pizza 
+   Filename: styles.css
+
+   Author:   
+   Date:     
+   HTML5 and CSS3 Illustrated Unit F, Skills Review
+ */
+
+/* reset styles */
+html {
+   font-size: 12px;
+}
+article, body, div, footer, header, h1, h2, nav, p {
+   border: 0;
+   padding: 0;
+   margin: 0;
+}
+
+/* body and container */
+body {
+   max-width: 960px;
+   margin: 0 auto;
+   background-color: #ddd;
+}
+.container {
+   background-color: #ffcc66;
+   position: relative;
+}
+p {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 1.6em;
+   line-height: 1.4em;
+}
+
+/* header section */
+h1 {
+   text-align: center;
+   font-family: "Playfair Display", "Times New Roman", Times, serif;
+   font-size: 4em;
+   font-weight: 900;
+}
+
+/* main content */
+article {
+   width: 69%;
+   margin: 1em 2% 1em 0;
+   padding: 1em 2% 0.5em;
+   float: right;
+   background-color: rgb(255,255,255);
+}
+h2, h3 {
+   padding-bottom: 0.25em;
+   margin: 0;
+   color: red;
+   font-family: "Playfair Display", "Times New Roman", Times, serif;
+   font-weight: 900;
+}
+h2 {
+   font-size: 2.8em;
+   text-align: center;
+}
+h3 {
+   margin: 1.5em 0 0.5em;
+   font-size: 2em;
+}
+article p {
+   margin-bottom: 0.5em;
+}
+article.display p {
+   text-align: center;
+}
+article.display #contentstart {
+   color: red;
+   font-family: "Playfair Display", "Times New Roman", Times, serif;
+   font-weight: 900;
+   font-size: 2.4em;
+}
+article div.subsection {
+   margin-left: 3em;
+}
+article div.subsection p {
+   margin: 0;
+}
+.contrastbox {
+   width: 30%;
+   padding: 0.5em;
+   margin: 0.5em auto;
+   border: 1px solid rgb(119,119,119);
+   text-align: center;
+   font-weight: bold;
+   background-color: rgb(221,221,221);
+}
+.contrastbox p {
+   margin-bottom: 0;
+}
+.publication {
+   font-style: italic;
+}
+.accent {
+   font-weight: bold;
+}
+
+/* footer section */
+footer {
+   padding: 0.5em 5%;
+   text-align: center;
+   clear: both;
+}
+footer p {
+   width: 30%;
+}
+footer p.contact1 {
+   float: left;
+}
+footer p.contact2 {
+   float: right;
+}
+footer p.contact3 {
+   margin: 0 auto;
+}
+
+/* print styles */
+@media print {
+   body, h2, article {
+      color: rgb(0,0,0);
+      background-color: rgb(255,255,255);
+   }
+   body {
+      max-width: 100%;
+   }
+}
+@page {
+   margin: 0.75in;
+}

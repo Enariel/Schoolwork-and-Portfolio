@@ -1,0 +1,32 @@
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en">
+   <head>
+      <styling>
+         <style id="defaultCaption" tts:textAlign="center" tts:fontSize="20" tts:backgroundColor="transparent" tts:color="white" tts:fontFamily="SansSerif" tts:fontWeight="bold"/>
+      </styling>
+   </head>
+<body>
+   <div style="defaultCaption" xml:lang="en">
+      <p begin="00:00:00.10" dur="00:00:05.25">
+         Here at Big J’s, we have relationships with local growers and suppliers like these.
+      </p>
+      <p begin="00:00:05.80" dur="00:00:04.10">
+         That lets us ensure a constant supply of fresh meat and produce.
+      </p>
+      <p begin="00:00:10.25" dur="00:00:02.25">
+         From tomatoes to chicken to mushrooms, 
+      </p>
+      <p begin="00:00:12.70" dur="00:00:02.30">
+         everything that goes onto our pizzas
+      </p>
+      <p begin="00:00:15.00" dur="00:00:01.50">
+         – and onto your table – 
+      </p>
+      <p begin="00:00:16.60" dur="00:00:01.60">
+         meets our high standards.
+      </p>
+      <p begin="00:00:18.50" dur="00:00:02.50">
+         Big J's. When you want the best.
+      </p>
+   </div>
+</body>
+</tt>

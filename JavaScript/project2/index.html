@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--
+        Author: Oliver Conover
+        Project 2
+        JavaScript
+        Date: 27/09/2020
+    -->
+    <title>Project 2</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=width-device">
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to Fantasy Flight Finder!</h1>
+    </header>
+    <nav>
+        <ul>
+            
+            <li>
+                <a href="index.html">
+                    <p>Home</p>
+                </a>
+            </li>
+
+        </ul>
+    </nav>
+    <main>
+        <h2>Choose your Home Airport and your Destination Airport Below</h2>
+        <h3>In order for this to work properly, you MUST make a selection in the drop-down menu, even if the option you want is selected by default.</h3>
+        <div class="startingAirport">
+            <label for="homeAirports">Current Airport:</label>
+
+            <select name="airports" id="homeAirports" onchange="GetHomeAirport(this);">
+                <option value="shire">The Shire (SHR)</option>
+                <option value="mordor">Mordor (MIA)</option>
+                <option value="azeroth">Azeroth (AIA)</option>
+                <option value="baSingSe">Ba Sing Se (BSS)</option>
+                <option value="republicCity">Republic City (RCI)</option>
+                <option value="zaoFu">Zao Fu (ZFU)</option>
+                <option value="runeterra">Runeterra (RTR)</option>
+                <option value="hogwarts">Hogwarts (HGT)</option>
+                <option value="emeraldCity">Emerald City (EMI)</option>
+                <option value="coruscant">Coruscant (CSC)</option>
+                <option value="tamriel">Tamriel (TIA)</option>
+                <option value="thedas">Thedas (THA)</option>
+            </select>
+        </div>
+        <div class="destinationAirport">
+            <label for="destinations">Destination:</label>
+
+            <select name="airports" id="destinations" onchange="GetDestinationAirport(this);">
+                <option value="shire">The Shire (SHR)</option>
+                <option value="mordor">Mordor (MIA)</option>
+                <option value="azeroth">Azeroth (AIA)</option>
+                <option value="baSingSe">Ba Sing Se (BSS)</option>
+                <option value="republicCity">Republic City (RCI)</option>
+                <option value="zaoFu">Zao Fu (ZFU)</option>
+                <option value="runeterra">Runeterra (RTR)</option>
+                <option value="hogwarts">Hogwarts (HGT)</option>
+                <option value="emeraldCity">Emerald City (EMI)</option>
+                <option value="coruscant">Coruscant (CSC)</option>
+                <option value="tamriel">Tamriel (TIA)</option>
+                <option value="thedas">Thedas (THA)</option>
+            </select>
+        </div>
+
+        <button id="findFlights" onclick="FindFlights()">Find Flights!</button>
+
+        <div id="output">
+
+        </div>
+
+    </main>
+    <footer>
+
+    </footer>
+    <script src="resources/script.js"></script>
+</body>
+
+</html>

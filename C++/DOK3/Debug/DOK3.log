@@ -1,0 +1,4 @@
+﻿  DOK3.cpp
+C:\Users\matsu\Google Drive\Sping2020\C++\DOK3\DOK3.cpp(15,35): error C3867: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::at': non-standard syntax; use '&' to create a pointer to member
+C:\Users\matsu\Google Drive\Sping2020\C++\DOK3\DOK3.cpp(15,35): error C2109: subscript requires array or pointer type
+C:\Users\matsu\Google Drive\Sping2020\C++\DOK3\DOK3.cpp(24,23): warning C4018: '<=': signed/unsigned mismatch

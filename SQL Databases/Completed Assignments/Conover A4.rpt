@@ -1,0 +1,31 @@
+Products With More Than Two Price Changes		
+ProductID	Name	PriceChanges
+		
+707	"Sport-100 Helmet, Red"	3
+708	"Sport-100 Helmet, Black"	3
+711	"Sport-100 Helmet, Blue"	3
+712	AWC Logo Cap	3
+713	"Long-Sleeve Logo Jersey, S"	3
+714	"Long-Sleeve Logo Jersey, M"	3
+715	"Long-Sleeve Logo Jersey, L"	3
+716	"Long-Sleeve Logo Jersey, XL"	3
+717	"HL Road Frame - Red, 62"	3
+718	"HL Road Frame - Red, 44"	3
+719	"HL Road Frame - Red, 48"	3
+720	"HL Road Frame - Red, 52"	3
+721	"HL Road Frame - Red, 56"	3
+722	"LL Road Frame - Black, 58"	3
+723	"LL Road Frame - Black, 60"	3
+724	"LL Road Frame - Black, 62"	3
+736	"LL Road Frame - Black, 44"	3
+737	"LL Road Frame - Black, 48"	3
+738	"LL Road Frame - Black, 52"	3
+739	"HL Mountain Frame - Silver, 42"	3
+742	"HL Mountain Frame - Silver, 46"	3
+743	"HL Mountain Frame - Black, 42"	3
+746	"HL Mountain Frame - Black, 46"	3
+747	"HL Mountain Frame - Black, 38"	3
+748	"HL Mountain Frame - Silver, 38"	3
+		
+Total		75
+		

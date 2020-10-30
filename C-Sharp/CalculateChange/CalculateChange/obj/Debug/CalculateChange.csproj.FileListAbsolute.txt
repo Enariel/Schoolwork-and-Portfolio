@@ -1,0 +1,10 @@
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateChange\CalculateChange\bin\Debug\CalculateChange.exe.config
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateChange\CalculateChange\bin\Debug\CalculateChange.exe
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateChange\CalculateChange\bin\Debug\CalculateChange.pdb
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateChange\CalculateChange\obj\Debug\CalculateChange.csprojAssemblyReference.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateChange\CalculateChange\obj\Debug\CalculateChange.frmCalculateChange.resources
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateChange\CalculateChange\obj\Debug\CalculateChange.Properties.Resources.resources
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateChange\CalculateChange\obj\Debug\CalculateChange.csproj.GenerateResource.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateChange\CalculateChange\obj\Debug\CalculateChange.csproj.CoreCompileInputs.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateChange\CalculateChange\obj\Debug\CalculateChange.exe
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateChange\CalculateChange\obj\Debug\CalculateChange.pdb

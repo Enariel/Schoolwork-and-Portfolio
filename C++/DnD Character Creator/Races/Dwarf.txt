@@ -1,0 +1,20 @@
+Dwarf
+Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the echoing of picks and hammers in deep mines and blazing forges, a commitment to clan and tradition, and a burning hatred of goblins and orcs — these common threads unite all dwarves.
+1
+2
+6
+0
+350
+Lawful-Good
+M
+25
+Darkvision
+Dwarven Resilience
+Dwarven Combat Training
+Tool Proficiency
+Stonecunning
+2
+5
+16
+16
+16

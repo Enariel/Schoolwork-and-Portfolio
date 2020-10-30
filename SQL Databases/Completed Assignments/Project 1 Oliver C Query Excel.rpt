@@ -1,0 +1,35 @@
+﻿FullName                                            CustCity                       CustState CustZipCode
+--------------------------------------------------- ------------------------------ --------- -----------
+Suzanne Viescas                                     Redmond                        WA        98052
+William Thompson                                    Duvall                         WA        98019
+Gary Hallmark                                       Auburn                         WA        98002
+Robert Brown                                        Houston                        TX        77201
+Dean McCrae                                         Redmond                        WA        98052
+John Viescas                                        Redmond                        WA        98052
+Mariya Sergienko                                    Portland                       OR        97208
+Neil Patterson                                      San Diego                      CA        92199
+Andrew Cencini                                      Seattle                        WA        98105
+Angel Kennedy                                       Austin                         TX        78710
+Alaina Hallmark                                     Woodinville                    WA        98072
+Liz Keyser                                          Bellevue                       WA        98006
+Rachel Patterson                                    San Diego                      CA        92199
+Sam Abolrous                                        Palm Springs                   CA        92263
+Darren Gehring                                      Chico                          CA        95926
+Jim Wilson                                          Salem                          OR        97301
+Manuela Seidel                                      Medford                        OR        97501
+David Smith                                         Fremont                        CA        94538
+Zachary Ehrlich                                     Glendale                       CA        91209
+Joyce Bonnicksen                                    Bellevue                       WA        98006
+Estella Pundt                                       Dallas                         TX        75260
+Caleb Viescas                                       Long Beach                     CA        90809
+Julia Schnebly                                      Seattle                        WA        99837
+Mark Rosales                                        El Paso                        TX        79915
+Maria Patterson                                     El Paso                        TX        79915
+Kirk DeGrasse                                       San Antonio                    TX        78284
+Luke Patterson                                      Portland                       OR        97208
+Jeffrey Tirekicker                                  Bothell                        WA        98006
+
+(28 rows affected)
+
+
+Completion time: 2019-09-29T23:32:54.3371838-04:00

@@ -1,0 +1,45 @@
+/* 
+	Author: Oliver Conover;
+	Date: 04/Feb/2020;
+	Filename: cl4styles.css;
+*/
+body {
+	background-color: #333333;
+}
+header {
+	background-color: #52527a;
+	text-align: center;
+}
+nav {
+	background-color: #a3a3c2;
+}
+h1 {
+	color: white;
+}
+h2 {
+	color: grey;
+	font-style: italic;
+}
+p {
+	color: white;
+}
+
+/* 
+Style rule applies to the div id main.
+Use # for IDs.
+ */
+ 
+ #main {
+	background-color: #000;
+}
+
+/* 
+Style rule applies to the div id main.
+Use '.' for classes.
+*/
+
+.boldred{
+	font-weight: bold;
+	color: #ff3300;
+	
+}

@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<!-- 	
+	Student Name: Oliver Conover
+	File Name: quiz1
+	Date: 28/09/2020
+-->
+
+<html lang="en">
+<head>
+	<title>Assessment 1: Conover</title>
+	<!-- Add your last name to the title element -->
+	<meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+	<!-- You may change the state name if you wish -->
+	<header>
+		<h1>Choose Your Florida Adventure</h1>
+	</header>
+	
+	<!-- Nav links -->
+	<nav>
+		<ul>
+            <li><a href="index.html">Home</a></li>  
+            <li><a href="#">Explore</a></li> 
+            <li><a href="#">Parks</a></li> 
+            <li><a href="#">Contact</a></li>
+        </ul>
+	</nav>
+	
+	<!--   **************     Main content area    **************
+	       You are welcome to use your own images or the ones provided in the images folder. If you change the images, you will need to update the .frame style rule on the CSS file by changing the value of the max-width to the width of your image. You may also need to update the grid-gap value in the CSS file. 
+	-->
+	<main>
+        <h3>Select an Adventure for More Information</h3>
+        
+        <div class="grid">
+
+            <!-- div 1 -->
+            <div onclick="RevealInformation(1)">
+                <figure class="frame">
+                    <img src="images/fishing.jpg" alt="two fishing poles at the bow of a boat">
+                    <figcaption class="caption">Deep Sea Fishing</figcaption>
+                </figure>
+                <!-- additional information should appear here, within this div, below the figure element -->
+
+                <div class="descriptionDiv" id="fishingInfo"></div>
+            </div>
+            <!-- div 2 -->
+            <div onclick="RevealInformation(2)">
+                <figure class="frame">
+                    <img src="images/dolphin.jpg" alt="dolphin jumping out of the water">
+                    <figcaption class="caption">Dolphin Sightseeing Cruise</figcaption>
+                </figure>
+                <!-- additional information should appear here, within this div, below the figure element -->
+
+                <div class="descriptionDiv" id="dolphinInfo"></div>
+
+            </div>
+
+            <!-- div 3 -->
+            <div onclick="RevealInformation(3)">
+                <figure class="frame">
+                    <img src="images/beach.jpg" alt="sand trail that leads to a beach">
+                    <figcaption class="caption">Private Beach Escape</figcaption>
+                </figure>
+                <!-- additional information should appear here, within this div, below the figure element -->
+
+                <div class="descriptionDiv" id="beachInfo"></div>
+
+            </div>
+
+        </div>
+        
+	</main>
+	
+	<!-- You may update the footer content as you see fit  -->
+	<footer>
+		<p>Choose Your Adventure</p>
+		<p>&copy; Copyright 2021. All Rights Reserved.</p>
+	</footer>
+	
+    <script src="script.js"></script>
+
+</body>
+</html>

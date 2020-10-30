@@ -1,0 +1,9 @@
+C:\Users\briosor\Documents\Fall 2019\COP 2360\SimpleIfStatement\SimpleIfStatement\bin\Debug\SimpleIfStatement.exe.config
+C:\Users\briosor\Documents\Fall 2019\COP 2360\SimpleIfStatement\SimpleIfStatement\bin\Debug\SimpleIfStatement.exe
+C:\Users\briosor\Documents\Fall 2019\COP 2360\SimpleIfStatement\SimpleIfStatement\bin\Debug\SimpleIfStatement.pdb
+C:\Users\briosor\Documents\Fall 2019\COP 2360\SimpleIfStatement\SimpleIfStatement\obj\Debug\SimpleIfStatement.csprojResolveAssemblyReference.cache
+C:\Users\briosor\Documents\Fall 2019\COP 2360\SimpleIfStatement\SimpleIfStatement\obj\Debug\SimpleIfStatement.Form1.resources
+C:\Users\briosor\Documents\Fall 2019\COP 2360\SimpleIfStatement\SimpleIfStatement\obj\Debug\SimpleIfStatement.Properties.Resources.resources
+C:\Users\briosor\Documents\Fall 2019\COP 2360\SimpleIfStatement\SimpleIfStatement\obj\Debug\SimpleIfStatement.csproj.GenerateResource.Cache
+C:\Users\briosor\Documents\Fall 2019\COP 2360\SimpleIfStatement\SimpleIfStatement\obj\Debug\SimpleIfStatement.exe
+C:\Users\briosor\Documents\Fall 2019\COP 2360\SimpleIfStatement\SimpleIfStatement\obj\Debug\SimpleIfStatement.pdb

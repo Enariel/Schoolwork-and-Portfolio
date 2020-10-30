@@ -1,0 +1,155 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--
+        Author: Oliver Conover
+        File: My Skills
+        Date: 30/03/2020
+    -->
+    <title>Newsletter</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=width-device">
+    <meta name="description" content="FuchsFarbe newsletter signup" />
+    <script src="modernizr-custom.js"></script>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v6.0"></script>
+
+    <header>
+        <div class="bannerimage">
+            <img src="images/icons/Banner_Logo.png" alt="FuchsFarbe by Oliver Conover">
+        </div>
+    </header>
+
+    <nav>
+
+        <div class="socialButtons">
+            <div class="fb-like" data-href="https://www.facebook.com/FuchsFarbe" data-width="" data-layout="button" data-action="like" data-size="large" data-share="true"></div>
+        </div>
+
+        <div>
+            <button onclick="toggleMenu" class="menuButton" id="hamButton" title="Open navigation menu."></button>
+        </div>
+
+        <ul>
+            <li><a href="index.html"><img src="images/icons/Home.png" alt="Home"><i>Home</i></a></li>
+            <li><a href="aboutme.html"><img src="images/icons/Person.png" alt="About me"><i>About Me</i></a></li>
+            <li><a href="sketchbookpictures.html"><img src="images/icons/Art.png" alt="Sketchbook"><i>Sketchbook</i></a></li>
+            <li><a href="supplies.html"><img src="images/icons/Dots.png" alt="Supplies"><i>Supplies</i></a></li>
+        </ul>
+
+        <a href="form.html">
+            <div class="newsletter">
+                <p>Sign Up for our Newsletter!</p>
+            </div>
+        </a>
+
+    </nav>
+
+    <main>
+        <form action="submission.txt">
+            <fieldset class="baseinfo">
+                <legend>About YOU</legend>
+                <label for="fname">
+                    First Name
+                    <input name="firstname" id="fname" />
+                </label>
+                <label for="lname">
+                    Last Name
+                    <input name="lastname" id="lname" />
+                </label>
+                <label for="email">
+                    Email Address
+                    <input name="email" id="email" />
+                </label>
+                <label for="number">
+                    Phone Number
+                    <input name="phonenumber" id="number" />
+                </label>
+                <label for="numtype">
+                    Phone Type
+                    <select id="numtype">
+                        <option value="mobile">Mobile</option>
+                        <option value="home">Home</option>
+                        <option value="work">Work</option>
+                    </select>
+                </label>
+                <label for="alias">
+                    Preferred Alias/Artist Handle
+                    <input name="alias" id="alias" />
+                </label>
+            </fieldset>
+
+            <fieldset class="paintstyles">
+                <legend>Paint Styles</legend>
+                <label for="water">
+                    Watercolor/Aquarelle
+                    <input type="checkbox" id="water" value="Aquarelle" />
+                </label>
+                <label for="acrylic">
+                    Acrylic
+                    <input type="checkbox" id="acrylic" value="Acrylic" />
+                </label>
+                <label for="spray">
+                    Spray Paint
+                    <input type="checkbox" id="spray" value="Spraypaint" />
+                </label>
+                <label for="oil">
+                    Oil
+                    <input type="checkbox" id="oil" value="Oil" />
+                </label>
+                <label for="digital">
+                    Digital
+                    <input type="checkbox" id="digital" value="Digital" />
+                </label>
+            </fieldset>
+
+            <fieldset class="extrainfo">
+                <label>
+                    Skill Level
+                    <select>
+                        <option value="beg">Beginner</option>
+                        <option value="med">Student/Intermediate</option>
+                        <option value="prof">Professional</option>
+                    </select>
+                </label>
+                <label>
+                    Teaching Experience?
+                    <select>
+                        <option value="none">None</option>
+                        <option value="some">0-2 Years</option>
+                        <option value="alot">2+ Years</option>
+                    </select>
+                </label>
+            </fieldset>
+
+            <fieldset class="feedback">
+                <legend>Additional information for me</legend>
+                <label>
+                    What you would like to see, constructive criticisms, ideas, etc.
+                    <textarea rows="1" cols="100">Input your text here.</textarea>
+                </label>
+            </fieldset>
+            <fieldset class="submit">
+                <input type="submit" id="submit" value="Submit to Newsletter" />
+            </fieldset>
+        </form>
+    </main>
+
+    <footer>
+
+        <h2>Contact Information</h2>
+        <div>
+            <p><a href="https://www.facebook.com/FuchsFarbe">Facebook</a></p>
+            <p><a href="https://www.instagram.com/FuchsFarbe">Instagram</a></p>
+            <p><a href="mailto:matsukurzeja@gmail.com?Subject=I%20Want%20To%20Buy%20Your%20Art" target="_top">Email</a></p>
+        </div>
+
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

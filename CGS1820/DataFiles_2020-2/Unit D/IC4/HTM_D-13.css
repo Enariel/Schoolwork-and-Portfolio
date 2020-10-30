@@ -1,0 +1,39 @@
+/* 
+   Eating Well in Season style sheet 
+   Filename: styles.css
+
+   Author:   
+   Date:     
+   HTML5 and CSS3 Illustrated Unit D, Independent Challenge 4
+ */
+
+/* body and page container */
+body {
+   background-color: silver;
+}
+
+/* headings */
+header {
+   background-color: olive;
+   color: floralwhite;
+}
+
+/* position container */
+.positioncontainer {
+   background-color: gold;
+}
+
+/* main content */
+article {
+   background-color: floralwhite;
+}
+article h2 {
+   background-color: lightskyblue;
+}
+
+/* footer section */
+footer {
+   background-color: olive;
+   color: floralwhite;
+   text-align: right;
+}

@@ -1,0 +1,10 @@
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojAssemblyReference.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb

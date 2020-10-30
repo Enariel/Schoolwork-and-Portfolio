@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\matsu\Google Drive\Sping2020\C++\4.2\Source.cpp(30,9): warning C4101: 'medNum': unreferenced local variable
+C:\Users\matsu\Google Drive\Sping2020\C++\4.2\Source.cpp(29,9): warning C4101: 'smallNum': unreferenced local variable
+C:\Users\matsu\Google Drive\Sping2020\C++\4.2\Source.cpp(31,9): warning C4101: 'bigNum': unreferenced local variable
+  4.2.vcxproj -> C:\Users\matsu\Google Drive\Sping2020\C++\4.2\Debug\4.2.exe

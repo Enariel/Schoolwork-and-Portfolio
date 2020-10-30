@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html lang="de">
+<head>
+  <title>Form Example</title>
+  <!-- 
+	 Name: Oliver Conover
+	 Date:	26/03/2020
+  -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="styles.css">
+  
+</head>
+<body>
+	<div id="container">
+	  
+	  <article>
+		 
+		<h2>Form Example</h2>
+		
+		<form>
+		
+			<fieldset class="custinfo"><!-- fieldset 1 basic info -->
+				<legend>Customer Information</legend>
+				<label for="nameinput"><!-- label 'for' ties to input id.  Ties to database.-->
+					Name:
+					<input type="text" name="name" id="nameinput" placeholder="Vorname und Nachname">
+				</label>
+				
+				<label for="emailinput"><!-- label 'for' ties to input id.  Ties to database.-->
+					Email:
+					<input type="email" name="email" id="emailinput" placeholder="email@address.com">
+				</label>
+				
+				<label for="phoneinput"><!-- label 'for' ties to input id.  Ties to database.-->
+					Telefonenummer:
+					<input type="tel" name="phone" id="phoneinput" placeholder="(717) 824-7924">
+				</label>
+			</fieldset>
+			
+			<fieldset class="addinfo"><!-- fieldset 2 interests -->
+				<legend>die Interessengebiete</legend>
+				<p>Ich habe ein Interesse an ...: </p>
+				
+				<label for="program"><!-- label 'for' ties to input id.  Ties to database.-->
+					<input type="checkbox" id="program" value="Programming">
+					der Programmierung
+				</label>
+				
+				<label for="network"><!-- label 'for' ties to input id.  Ties to database.-->
+					<input type="checkbox" id="network" value="Networking">
+					Networking
+				</label>
+				
+				<label for="mobile"><!-- label 'for' ties to input id.  Ties to database.-->
+					<input type="checkbox" id="mobile" value="Mobiler">
+					der Entwicklung mobiler Anwendungen
+				</label>
+				
+				<label for="web"><!-- label 'for' ties to input id.  Ties to database.-->
+					<input type="checkbox" id="web" value="Webentwicklung">
+					Webentwicklung
+				</label>
+			</fieldset>
+			
+			<fieldset class="refer"><!-- fieldset 3 dropdown box referall source -->
+				<legend>Verweisquelle</legend>
+				
+				<select name="reference" id="reference">
+					<option value="ad">Werbung</option>
+					<option value="friend">Freund/Bekannter</option>
+					<option value="google">Google</option>
+					<option value="social">sozialen Medien</option>
+					<option value="other">andere</option>
+				</select>
+			
+			</fieldset>
+			
+			<fieldset class="questions"><!-- fieldset 4 Comments and Questions-->
+				<legend>Kommentare und Fragen</legend>
+				
+				<label>Fragen?</label>
+				<textarea id="questions" name="questions" rows="10" cols="60"></textarea>
+			</fieldset>
+			
+			<fieldset class="submitbutton"><!-- fieldset 5 submit -->
+			
+				<input type="submit" id="submit" value="Submit">
+			
+			</fieldset>
+		
+		</form>
+	  
+	  </article>
+	
+	</div> 
+</body>
+</html>

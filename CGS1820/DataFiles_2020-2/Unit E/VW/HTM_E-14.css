@@ -1,0 +1,63 @@
+﻿/* 
+   Revisions Bookstore and Cafe style sheet 
+   Filename: styles.css
+
+   Author:   
+   Date:     
+   HTML5 and CSS3 Illustrated Unit E, Visual Workshop
+ */
+
+/* reset styles */
+article, body, div, footer, header, h1, h2, p {
+   border: 0;
+   padding: 0;
+   margin: 0;
+}
+
+/* body and page container */
+body div.container {
+   max-width: 640px;
+   margin: 0 auto;
+   background-color: white;
+}
+
+/* headings */
+header {
+   padding: 0.5em;
+   text-align: center;
+}
+
+/* main content */
+article {
+   width: 62%;
+   padding: 3%;
+   float: left;
+}
+article div.container {
+   padding: 2%;
+   background-color: white;
+}
+article h2 {
+   margin-bottom: 0.4em;
+}
+article p {
+   margin: 0 0 0.8em 1em;
+}
+
+/* sidebar */
+aside {
+   width: 28%;
+   padding: 2%;
+   float: right;
+}
+aside p {
+   padding: 0.4em;
+   margin-bottom: 0.6em;
+}
+
+/* footer section */
+footer {
+   padding: 0.5em;
+   clear: both;
+   text-align: right;
+}

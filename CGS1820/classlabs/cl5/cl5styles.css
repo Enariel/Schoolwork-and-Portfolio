@@ -1,0 +1,85 @@
+/*
+	Oliver Conover
+	11/02/2020
+	cl5styles.css
+	Class Lab 5
+*/
+
+/*CSS Reset*/
+header, nav, div, footer {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+#container{
+	width: 90%;
+	margin: 0 auto;
+}
+
+body {
+	background-color: #DAD4F7;
+}
+
+header {
+	
+}
+
+#main {
+	width: 40%;
+	float: left;
+}
+
+nav p {
+	font-family: RussoOne, sans-serif;
+	background-color: #C21460;
+	padding: 5px 5px;
+	color: #DAD4F7;
+	text-shadow: 2px 2px 1px #34091C;
+}
+
+article p {
+	margin: 2% 1%;
+	padding: 3%;
+	border: 1px solid #34091C;
+	background-color: #6659A1;
+	color: #DAD4F7;
+}
+
+article p:first-letter {
+	font-size: 3em;
+	font-weight: bold;
+}
+
+aside {
+	width: 50%;
+	float: right;
+	background-color: #8601AF;
+	color: #DAD4F7;
+	margin-left: 1%;
+	margin-top: 1%;
+	padding: 2%;
+}
+
+footer {
+	clear: left;
+}
+h1, h2 {
+	text-shadow: 1px 1px 1px #34091C;
+	color: #C21460;
+	font-family: RussoOne, sans-serif;
+	
+}
+p {
+	font-family: Poppins, sans-serif;
+	font-size: 1.15em;
+	line-height: 1.65em;
+}
+@font-face {
+	font-family: Poppins;
+	src: url(Poppins-Regular.ttf);
+}
+@font-face {
+	font-family: RussoOne;
+	src: url(RussoOne-Regular.ttf);
+}

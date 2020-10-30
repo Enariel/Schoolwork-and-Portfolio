@@ -1,0 +1,34 @@
+﻿StaffID     StfFirstName              StfLastname               Salary
+----------- ------------------------- ------------------------- ---------------------
+98005       Suzanne                   Viescas                   46200.00
+98007       Gary                      Hallmark                  55650.00
+98010       Jeffrey                   Smith                     54600.00
+98011       Ann                       Patterson                 47250.00
+98012       Robert                    Brown                     51450.00
+98013       Deb                       Waldal                    46200.00
+98014       Peter                     Brehm                     63000.00
+98019       Mariya                    Sergienko                 47250.00
+98020       Jim                       Glynn                     47250.00
+98021       Tim                       Smith                     42000.00
+98025       Carol                     Viescas                   52500.00
+98028       Alaina                    Hallmark                  59850.00
+98030       Liz                       Keyser                    50400.00
+98036       Sam                       Abolrous                  63000.00
+98040       Jim                       Wilson                    52500.00
+98042       David                     Smith                     52000.00
+98043       Kathryn                   Patterson                 26250.00
+98045       Michael                   Hernandez                 60000.00
+98048       Joyce                     Bonnicksen                63000.00
+98052       Katherine                 Ehrlich                   47250.00
+98053       Caleb                     Viescas                   45000.00
+98055       Alastair                  Black                     63000.00
+98057       Joe                       Rosales III               36750.00
+98059       Maria                     Patterson                 50400.00
+98062       Caroline                  Coie                      54600.00
+98063       Kirk                      DeGrasse                  47250.00
+98064       Luke                      Patterson                 58800.00
+
+(27 rows affected)
+
+
+Completion time: 2019-11-24T21:44:02.7829194-05:00

@@ -1,0 +1,150 @@
+﻿/* 
+   Hotel Natoma style sheet 
+   Filename: styles.css
+
+   Author:   
+   Date:     
+   HTML5 and CSS3 Illustrated Unit O, Independent Challenge 3
+ */
+
+/* reset styles */
+html {
+   font-size: 20px;
+}
+a, article, body, div, figcaption, figure, footer, header, h1, 
+h2, h3, img, li, nav, p, section, textarea, ul {
+   border: 0;
+   padding: 0;
+   margin: 0;
+}
+img, video {
+   max-width: 100%;
+   height: auto;
+   width: auto;
+}
+ul {
+   list-style-type: none;
+}
+
+/* body and page container */
+body {
+   font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+   max-width: 960px;
+   margin: 0 auto;
+   border-left: 3px solid black;
+   border-right: 3px solid black;
+   position: relative;
+   border-top-left-radius: 25px;
+   border-bottom-right-radius: 25px;
+}
+
+/* skip navigation link */
+p.skipnavigation a {
+   position: absolute;
+   left: -10000px;
+}
+p.skipnavigation a:focus {
+   left: auto;
+   right: 1em;
+   top: 1em;
+   background-color: white;
+   color: #082008;
+   z-index: 2;
+}
+
+/* header section */
+header {
+   padding: 0.5em;
+   background-color: #082008;
+   border-top-left-radius: 22px;
+}
+h1 img {
+   margin: 0 auto;
+   display: block;
+}
+
+/* site navigation */
+nav.sitenavigation {
+   padding: 2%;
+   text-align: center;
+   background-color: #93ad78;
+}
+nav.sitenavigation li {
+   margin: 0 1em;
+   padding: 0.2em;
+   display: inline-block;
+}
+nav.sitenavigation li:hover {
+   background: #082008;
+   border-radius: 0.2em;
+}
+nav.sitenavigation a:link {
+   color: white;
+   text-decoration: none;
+   font-weight: bold;
+}
+nav.sitenavigation a:visited {
+   color: #dddddd;
+}
+nav.sitenavigation a:hover, nav.sitenavigation a:focus {
+   text-shadow: 0 0 6px #082008;
+}
+
+/* main content */
+article {
+   padding: 2%;
+   background-color: linen;
+   overflow: auto;
+}
+article h2 {
+   margin-bottom: 0.6em;
+   font-family: "Krona One", Arial, Helvetica, sans-serif;
+   font-size: 1.6em;
+   line-height: 2em;
+   font-weight: 400;
+   text-align: center;
+}
+article p {
+   margin: 0 2em 0.5em;
+}
+figure {
+   max-width: 50%;
+   margin: 0.2em 0 0.2em 0.5em;
+   float: right;
+}
+figcaption {
+   text-align: center;
+   font-weight: bold;
+}
+
+/* footer section */
+footer {
+   padding: 10px;
+   text-align: center;
+   color: white;
+   background-color: #082008;
+   border-bottom-right-radius: 22px;
+}
+
+/* print styles */
+@media print {
+   article {
+      width: 100%;
+   }
+   article, body, .container, footer {
+      border: 0;
+      color: rgb(0,0,0);
+      background-color: rgb(255,255,255);
+   }
+   body {
+      max-width: 100%;
+   }
+   nav {
+      display: none;
+   }
+}
+@page {
+   margin: 0.75in;
+}

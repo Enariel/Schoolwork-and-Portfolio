@@ -1,0 +1,128 @@
+/* 
+   Eating Well in Season style sheet 
+   Filename: styles.css
+
+   Author:   
+   Date:     
+   HTML5 and CSS3 Illustrated Unit F, Independent Challenge 4
+ */
+
+/* reset styles */
+html {
+   font-size: 12px;
+}
+article, body, div, footer, header, h1, h2, h3, nav, p {
+   border: 0;
+   padding: 0;
+   margin: 0;
+}
+
+/* body and page container */
+body {
+   font-family: "Alegreya Sans", Arial, Helvetica, sans-serif;
+   background-color: #aabd7e;
+}
+.container {
+   max-width: 800px;
+   margin: 0 auto;
+   background-color: rgb(246,224,65);
+   position: relative;
+}
+p {
+   font: 1.6em Verdana, Geneva, sans-serif;
+}
+
+/* header section */
+header {
+   padding: 0 1em;
+   text-align: center;
+   background-color: #a17f43;
+}
+header h1 {
+   padding-top: 0.4em;
+   color: rgb(246,224,65);
+   font-weight: normal;
+   font-size: 4.6em;
+   line-height: 0.8em;
+}
+header p {
+   padding: 0.4em 0 0.8em;
+   color: floralwhite;
+}
+
+/* main content */
+article {
+   width: 62.5%;
+   float: left;
+   background-color: floralwhite;
+}
+article h2 {
+   margin: 0.4em 0.4em 0;
+   color: #98c03d;
+   font-size: 2.8em;
+   font-weight: normal;
+}
+article h3 {
+   margin: 0.4em 0.4em 0;
+   color: black;
+   font-size: 2.2em;
+   font-weight: normal;
+}
+article div p {
+   text-align: center;
+   margin-top: 1em;
+}
+article p {
+   margin: 0 1em 0.4em 1.4em;
+}
+
+/* sidebar */
+aside {
+   width: 37.5%;
+   float: right;
+}
+aside h2 {
+   padding: 0.4em;
+   font-size: 2.8em;
+   line-height: 0.8em;
+   font-weight: normal;
+}
+aside p {
+   padding-left: 1.4em;
+}
+
+/* footer section */
+footer {
+   padding: 0.6em;
+   background-color: black;
+   color: floralwhite;
+   text-align: center;
+   clear: both;
+}
+footer p {
+   margin: 0.4em;
+}
+
+/* print styles */
+@media print {
+   article, article h2, aside, body, .container, footer, header, header h1, header p {
+      color: rgb(0,0,0);
+      background-color: rgb(255,255,255);
+   }
+   article {
+      border-right: 4px solid black;
+      width: 60.5%
+   }
+   body {
+      max-width: 100%;
+   }
+   footer {
+      border-top: 4px solid black;
+   }
+   header {
+      border-bottom: 4px solid black;
+   }
+}
+@page {
+   margin: 1in;
+}

@@ -1,0 +1,53 @@
+﻿/* 
+   Lakeland Reeds Bed and Breakfast style sheet 
+   Filename: styles.css
+
+   Author:   
+   Date:     
+   HTML5 and CSS3 Illustrated Unit E, Lessons
+ */
+
+/* reset styles */
+article, body, div, footer, header, h1, h2, p {
+   border: 0;
+   padding: 0;
+   margin: 0;
+}
+
+/* body */
+body {
+   max-width: 640px;
+   margin: 0 auto;
+   border-left: 1px solid black;
+   border-right: 1px solid black;
+   background-color: aliceblue;
+}
+
+/* headings */
+h1, h2 {
+   padding: 0.4em;
+   text-align: center;
+}
+h1 {
+   color: ivory;
+   background-color: darkgoldenrod;
+}
+
+/* main content */
+article {
+   background-color: ivory;
+}
+article p {
+   padding: 0 1em 1em;
+}
+
+/* footer section */
+footer {
+   padding: 0.6em;
+   color: ivory;
+   background-color: saddlebrown;
+   text-align: center;
+}
+footer p {
+   margin: 0.4em;
+}

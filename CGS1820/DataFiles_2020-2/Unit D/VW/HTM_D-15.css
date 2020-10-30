@@ -1,0 +1,40 @@
+﻿/* 
+   Revisions Bookstore and Cafe style sheet 
+   Filename: styles.css
+
+   Author:   
+   Date:     
+   HTML5 and CSS3 Illustrated Unit D, Visual Workshop
+ */
+
+/* body and page container */
+body {
+   background-color: floralwhite;
+}
+.container {
+   background-color: burlywood;
+}
+
+/* headings */
+header {
+   text-align: center;
+   color: navy;
+   background-color: lightblue;
+}
+
+/* main content */
+article {
+   background-color: white;
+}
+
+/* sidebar */
+aside {
+   background-color: burlywood;
+}
+
+/* footer section */
+footer {
+   color: navy;
+   background-color: lightblue;
+   text-align: right;
+}

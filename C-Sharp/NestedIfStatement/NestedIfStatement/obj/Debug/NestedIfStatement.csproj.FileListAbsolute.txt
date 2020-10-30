@@ -1,0 +1,9 @@
+C:\Users\briosor\Documents\Fall 2019\COP 2360\NestedIfStatement\NestedIfStatement\bin\Debug\NestedIfStatement.exe.config
+C:\Users\briosor\Documents\Fall 2019\COP 2360\NestedIfStatement\NestedIfStatement\obj\Debug\NestedIfStatement.csprojResolveAssemblyReference.cache
+C:\Users\briosor\Documents\Fall 2019\COP 2360\NestedIfStatement\NestedIfStatement\obj\Debug\NestedIfStatement.Form1.resources
+C:\Users\briosor\Documents\Fall 2019\COP 2360\NestedIfStatement\NestedIfStatement\obj\Debug\NestedIfStatement.Properties.Resources.resources
+C:\Users\briosor\Documents\Fall 2019\COP 2360\NestedIfStatement\NestedIfStatement\obj\Debug\NestedIfStatement.csproj.GenerateResource.Cache
+C:\Users\briosor\Documents\Fall 2019\COP 2360\NestedIfStatement\NestedIfStatement\bin\Debug\NestedIfStatement.exe
+C:\Users\briosor\Documents\Fall 2019\COP 2360\NestedIfStatement\NestedIfStatement\bin\Debug\NestedIfStatement.pdb
+C:\Users\briosor\Documents\Fall 2019\COP 2360\NestedIfStatement\NestedIfStatement\obj\Debug\NestedIfStatement.exe
+C:\Users\briosor\Documents\Fall 2019\COP 2360\NestedIfStatement\NestedIfStatement\obj\Debug\NestedIfStatement.pdb

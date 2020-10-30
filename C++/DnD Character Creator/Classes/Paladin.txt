@@ -1,0 +1,7 @@
+Paladin
+A holy warrior bound to a sacred oath.
+10
+0
+3
+4
+All armor, shields, simple and martial weapons.

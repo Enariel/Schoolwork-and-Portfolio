@@ -1,0 +1,56 @@
+* Character Name *
+          Lillith
+** Languages **
+          Common
+          Elvish
+          -
+          -
+          -
+
+** Stats ** 
+
+          * Race *
+
+               [Elf]
+
+                    Description: Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. They live in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light, where soft music drifts through the air and gentle fragrances waft on the breeze. Elves love nature and magic, art and artistry, music and poetry, and the good things of the world.
+
+          * Sub-Race *
+
+               [[Drow]]
+
+                    Description: Descended from an earlier subrace of elves, the drow were banished from the surface world for following the goddess Lolth down the path of evil. Now they have built their own civilization in the depths of the Underdark, patterned after the Way of Lolth. Also called dark elves, the drow have skin that resembles charcoal or obsidian, as well as stark white or pale yellow hair. They commonly have very pale eyes (so pale as to be mistaken for white) in shades of lilac, silver, pink, red, and blue. They tend to be smaller and thinner than most elves.
+
+* Ability Score Increases *
+
+          Dexterity          2
+                    0
+          Charisma          1
+
+** Special Passives **
+
+          -Darkvision
+          -Keen Senses
+          -Fey Ancestry
+          -Trance
+          --
+     * Sub-Race Bonus Passives *
+
+          -Superior Darkvision
+          -Sunlight Sensitivity
+          -Drow Magic
+          -Drow Weapon Training
+          --
+** Class Information **
+
+          Class: Rogue
+          Description: A scoundrel who uses stealth and trickery to overcome obstacles and enemies.
+     Details: 
+          Hitpoint Dice: 8
+          Primary Stat: Dexterity
+          Proficiencies: 
+               Dexterity
+               Intelligence
+          Equipment Proficiency: 
+               Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords.
+

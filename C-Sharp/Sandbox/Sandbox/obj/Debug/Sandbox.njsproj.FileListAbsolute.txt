@@ -1,0 +1,3 @@
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\Sandbox\Sandbox\obj\Debug\Sandbox.njsprojAssemblyReference.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\Sandbox\Sandbox\obj\Debug\Sandbox.njsproj.CoreCompileInputs.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\Sandbox\Sandbox\bin\Microsoft.NodejsTools.WebRole.dll

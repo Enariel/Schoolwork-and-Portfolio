@@ -1,0 +1,9 @@
+{
+  "name": "sandbox",
+  "version": "0.0.0",
+  "description": "Sandbox",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

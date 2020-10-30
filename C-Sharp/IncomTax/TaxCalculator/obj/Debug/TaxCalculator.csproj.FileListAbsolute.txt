@@ -1,0 +1,10 @@
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\IncomTax\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\IncomTax\TaxCalculator\bin\Debug\TaxCalculator.exe
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\IncomTax\TaxCalculator\bin\Debug\TaxCalculator.pdb
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\IncomTax\TaxCalculator\obj\Debug\TaxCalculator.csprojAssemblyReference.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\IncomTax\TaxCalculator\obj\Debug\TaxCalculator.frmTaxCalculator.resources
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\IncomTax\TaxCalculator\obj\Debug\TaxCalculator.Properties.Resources.resources
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\IncomTax\TaxCalculator\obj\Debug\TaxCalculator.csproj.GenerateResource.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\IncomTax\TaxCalculator\obj\Debug\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\IncomTax\TaxCalculator\obj\Debug\TaxCalculator.exe
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\IncomTax\TaxCalculator\obj\Debug\TaxCalculator.pdb

@@ -1,0 +1,7 @@
+Cleric
+A priestly champion who wields divine magic in service of a higher power.
+8
+4
+4
+3
+Light and medium armor, shields, simple weapons.

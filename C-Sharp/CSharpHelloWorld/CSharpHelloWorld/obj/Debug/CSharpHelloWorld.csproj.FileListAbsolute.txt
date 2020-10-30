@@ -1,0 +1,19 @@
+C:\Users\briosor\Documents\Fall 2019\COP 2360\CSharpHelloWorld\CSharpHelloWorld\bin\Debug\CSharpHelloWorld.exe.config
+C:\Users\briosor\Documents\Fall 2019\COP 2360\CSharpHelloWorld\CSharpHelloWorld\bin\Debug\CSharpHelloWorld.exe
+C:\Users\briosor\Documents\Fall 2019\COP 2360\CSharpHelloWorld\CSharpHelloWorld\bin\Debug\CSharpHelloWorld.pdb
+C:\Users\briosor\Documents\Fall 2019\COP 2360\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\CSharpHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\briosor\Documents\Fall 2019\COP 2360\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\CSharpHelloWorld.Form1.resources
+C:\Users\briosor\Documents\Fall 2019\COP 2360\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\CSharpHelloWorld.Properties.Resources.resources
+C:\Users\briosor\Documents\Fall 2019\COP 2360\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\CSharpHelloWorld.csproj.GenerateResource.Cache
+C:\Users\briosor\Documents\Fall 2019\COP 2360\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\CSharpHelloWorld.exe
+C:\Users\briosor\Documents\Fall 2019\COP 2360\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\CSharpHelloWorld.pdb
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CSharpHelloWorld\CSharpHelloWorld\bin\Debug\CSharpHelloWorld.exe.config
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CSharpHelloWorld\CSharpHelloWorld\bin\Debug\CSharpHelloWorld.exe
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CSharpHelloWorld\CSharpHelloWorld\bin\Debug\CSharpHelloWorld.pdb
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\CSharpHelloWorld.csprojAssemblyReference.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\CSharpHelloWorld.Form1.resources
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\CSharpHelloWorld.Properties.Resources.resources
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\CSharpHelloWorld.csproj.GenerateResource.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\CSharpHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\CSharpHelloWorld.exe
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\CSharpHelloWorld.pdb

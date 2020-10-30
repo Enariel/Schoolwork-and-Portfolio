@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <StartupFile>Main.py</StartupFile>
+    <WorkingDirectory>C:\Users\matsu\Google Drive\Fall Semester\Programming\Final Project</WorkingDirectory>
+    <ProjectHome />
+    <Name>Alchemie</Name>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Information\" />
+    <Folder Include="Information\Database\" />
+    <Folder Include="Information\Output\" />
+    <Folder Include="__pycache__\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Information\Database\Alchemie.db" />
+    <Content Include="Table Data.xlsx" />
+    <Content Include="__pycache__\Alchemie.cpython-37.pyc" />
+    <Content Include="__pycache__\Alchemie_Database_Manager.cpython-37.pyc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main.py" />
+    <Compile Include="Alchemie_Database_Manager.py" />
+    <Compile Include="DangerLevels.py" />
+    <Compile Include="Gem.py" />
+    <Compile Include="GemType.py" />
+  </ItemGroup>
+</Project>

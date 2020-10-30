@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>Report Scores for Murfreesboro Regional Soccer League</title>
+      <!--
+         Murfreesboro Regional Soccer League Report Scores page
+         Filename: report.html
+      
+         Author:   
+         Date:     
+         HTML5 and CSS3 Illustrated Unit P, Independent Challenge 2
+      -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <script src="modernizr-latest.js"></script>
+      <link rel="stylesheet" href="styles.css">
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="icon" sizes="192x192" href="images/android.png">
+   </head>
+   <body>
+      <div class="container">
+         <p class="skipnavigation"><a href="#contentstart">Skip navigation</a></p> 
+         <header>
+            <h1>Murfreesboro Regional Soccer League</h1>
+            <div>
+               <a href="index.html"><img src="images/mrsl.png" width="224" height="105" alt=""></a>
+            </div>
+         </header>
+         <nav class="sitenavigation">
+            <ul>
+               <li><a href="index.html">Home</a></li>
+               <li><a href="started.html">Getting Started</a></li>
+               <li><a href="schedule.html">Schedules</a></li>
+               <li class="current_page"><a href="report.html">Report Scores</a></li>
+            </ul>
+         </nav>
+         <article id="contentstart">
+            <h2>Report Scores</h2>
+            <form action="results.html">
+               <p>All fields are required</p>
+               <fieldset class="contactinfo">
+                  <label for="hometeaminput" class="name">
+                     Home Team
+                     <input type="text" id="hometeaminput" name="hometeam" required>
+                  </label>
+                  <label for="homescoreinput" class="score">
+                     Home Score
+                     <input type="number" id="homescoreinput" name="homescore" required>
+                  </label>
+                  <label for="awayteaminput" class="name">
+                     Away Team
+                     <input type="text" id="awayteaminput" name="awayteam" required>
+                  </label>
+                  <label for="awayscoreinput" class="score">
+                     Away Score
+                     <input type="number" id="awayscoreinput" name="awayscore" required>
+                  </label>
+                  <label for="referreeinput">
+                     Referee Name
+                     <input type="text" id="referreeinput" name="referree" required>
+                  </label>                
+               </fieldset>
+               <fieldset class="submitbutton">
+                  <input type="submit" id="submit" value="Submit Score">
+               </fieldset>
+            </form>
+         </article>
+         <footer>
+            <p>Murfreesboro Regional Soccer League</p>
+            <p>c/o Davies Sporting Goods</p>
+            <p>418 N. Sartoris St.</p>
+            <p>Murfreesboro, TN 37130</p>
+            <p>(615) 555-2255</p>
+         </footer>
+      </div>
+   </body>
+</html>

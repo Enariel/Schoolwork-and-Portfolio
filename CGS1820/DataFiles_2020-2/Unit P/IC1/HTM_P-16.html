@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>Contact Spotted Wren Garden Center</title>
+      <!--
+         Spotted Wren Garden Center Contact Us page
+         Filename: contact.html
+      
+         Author:   
+         Date:     
+         HTML5 and CSS3 Illustrated Unit P, Independent Challenge 1
+      -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <script src="modernizr-latest.js"></script>
+      <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+      <link rel="stylesheet" href="styles.css">
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="icon" sizes="192x192" href="images/android.png">
+   </head>
+   <body>
+      <div class="container">
+         <p class="skipnavigation"><a href="#contentstart">Skip navigation</a></p>
+         <header>
+            <h1><a href="index.html"><img src="images/spotwren.gif" width="864" height="184" alt="Spotted Wren Garden Center"></a></h1>
+         </header>
+         <nav class="sitenavigation">
+            <ul>
+               <li><a href="index.html">Home</a></li> 
+               <li><a href="hours.html">Hours</a></li>
+               <li><a href="resource.html">Resources</a></li>
+               <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+         </nav>
+         <article id="contentstart">
+            <h2>Contact Us</h2>
+            <p>Have a question or need information you don't see on our website? Fill out the form below and we'll be in touch within 2 business days.</p>
+            <form action="results.html">
+               <p class="form-instructions">* indicates a required field -- please provide either Email or Phone</p>
+               <fieldset class="contactinfo">
+                  <label for="nameinput">
+                     Name
+                     <input type="text" id="nameinput" name="name" required>
+                  </label>
+                  <label for="emailinput">
+                     Email
+                     <input type="email" id="emailinput" name="email">
+                  </label>
+                  <label for="phoneinput">
+                     Phone
+                     <input type="tel" id="phoneinput" name="phone">
+                  </label>
+               </fieldset>
+               <fieldset class="additionalinfo">
+                  <label for="notes">
+                     Specific questions or notes
+                     <textarea id="notes" name="notes" rows="5"></textarea>
+                  </label>
+               </fieldset>
+               <fieldset class="submitbutton">
+                  <input type="submit" id="submit" value="Submit">
+               </fieldset>
+            </form>
+         </article>
+         <footer>
+            <p>548 N. 58th St. &#8226; Omaha, NE 68132 &#8226; (402) 555-9736</p>
+         </footer>
+      </div>
+   </body>
+</html>

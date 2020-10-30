@@ -1,0 +1,10 @@
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\Factorial\Factorial\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\Factorial\Factorial\bin\Debug\WindowsFormsApp1.exe
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\Factorial\Factorial\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\Factorial\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\Factorial\Factorial\obj\Debug\WindowsFormsApp1.frmFactorial.resources
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\Factorial\Factorial\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\Factorial\Factorial\obj\Debug\Factorial.csproj.GenerateResource.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\Factorial\Factorial\obj\Debug\WindowsFormsApp1.exe
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\Factorial\Factorial\obj\Debug\WindowsFormsApp1.pdb

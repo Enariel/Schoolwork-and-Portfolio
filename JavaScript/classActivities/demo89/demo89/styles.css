@@ -1,0 +1,9 @@
+.hidden {
+	display: none;
+}
+
+article {
+	background-color: #FC7307;
+	border: 1px solid #000;
+	padding: 2%;
+}

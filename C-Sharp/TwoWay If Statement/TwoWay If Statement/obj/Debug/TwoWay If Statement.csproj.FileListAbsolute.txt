@@ -1,0 +1,9 @@
+C:\Users\briosor\Documents\Fall 2019\COP 2360\TwoWay If Statement\TwoWay If Statement\bin\Debug\TwoWay If Statement.exe.config
+C:\Users\briosor\Documents\Fall 2019\COP 2360\TwoWay If Statement\TwoWay If Statement\bin\Debug\TwoWay If Statement.exe
+C:\Users\briosor\Documents\Fall 2019\COP 2360\TwoWay If Statement\TwoWay If Statement\bin\Debug\TwoWay If Statement.pdb
+C:\Users\briosor\Documents\Fall 2019\COP 2360\TwoWay If Statement\TwoWay If Statement\obj\Debug\TwoWay If Statement.csprojResolveAssemblyReference.cache
+C:\Users\briosor\Documents\Fall 2019\COP 2360\TwoWay If Statement\TwoWay If Statement\obj\Debug\TwoWay_If_Statement.Form1.resources
+C:\Users\briosor\Documents\Fall 2019\COP 2360\TwoWay If Statement\TwoWay If Statement\obj\Debug\TwoWay_If_Statement.Properties.Resources.resources
+C:\Users\briosor\Documents\Fall 2019\COP 2360\TwoWay If Statement\TwoWay If Statement\obj\Debug\TwoWay If Statement.csproj.GenerateResource.Cache
+C:\Users\briosor\Documents\Fall 2019\COP 2360\TwoWay If Statement\TwoWay If Statement\obj\Debug\TwoWay If Statement.exe
+C:\Users\briosor\Documents\Fall 2019\COP 2360\TwoWay If Statement\TwoWay If Statement\obj\Debug\TwoWay If Statement.pdb

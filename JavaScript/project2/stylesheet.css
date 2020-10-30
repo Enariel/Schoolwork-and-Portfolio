@@ -1,0 +1,244 @@
+/*
+    Colors
+    
+    Dark-Blue: #3E5A8A
+    Blue: #7992BD
+    Light-Blue: #B1EAF0
+    Orange: #F29976
+    Dark-Orange: #BD3008
+
+*/
+
+/*Standard page stuff*/
+
+header {
+    background-color: #3E5A8A;
+    border-radius: 15px;
+    font-family: courgette;
+    padding: 5px;
+    margin: 15px;
+    color: rgb(177,234,240);
+    box-shadow: #BD3008 4px 4px;
+}
+body {
+    height: 100%;
+    margin: 0;
+    background: rgb(62,90,138);
+    background: linear-gradient(0deg, rgba(62,90,138,1) 0%, rgba(121,146,189,1) 33%, rgba(177,234,240,1) 66%) no-repeat;
+    background-attachment: fixed;
+    margin: auto;
+    text-align: center;
+}
+main{
+
+}
+main h2{
+    font-family: courgette;
+    font-size: 1.75em;
+    color: #F29976;
+    text-shadow: #BD3008 1px 1px;
+}
+main h3{
+    font-family: oswald;
+    font-size: 1.25em;
+    color: #BD3008;
+    text-shadow: #F29976 1px 1px;
+}
+nav {
+    display: inline;
+    font-family: oswald;
+}
+ul {
+    border-radius: 15px;
+    background-color: #3E5A8A;
+    margin: 15px;
+    box-shadow: #BD3008 4px 4px;
+    padding: 5px;
+}
+li {
+    list-style: none;
+    border-radius: 15px;
+    background-color: #B1EAF0;
+    width: 150px;
+    padding: 5px;
+    margin: auto;
+    text-decoration: none;
+    font-size: 1.25em;
+}
+li:hover{
+
+}
+.startingAirport {
+    float: left;
+    width: 45%;
+    padding: 15px;
+    font-family: oswald;
+    background-color: rgb(62,90,138);
+    border-radius: 15px;
+    margin: auto;
+    color: rgb(177,234,240);
+    box-shadow: #BD3008 4px 4px;
+}
+.startingAirport select {
+    color: #BD3008;
+    background-color: #F29976;
+    font-size: 1.5em;
+}
+.destinationAirport {
+    float: right;
+    width: 45%;
+    padding: 15px;
+    font-family: oswald;
+    background-color: rgb(62,90,138);
+    border-radius: 15px;
+    margin: auto;
+    color: rgb(177,234,240);
+    box-shadow: #BD3008 4px 4px;
+}
+.destinationAirport select {
+    color: #BD3008;
+    background-color: #F29976;
+    font-size: 1.5em;
+}
+#findFlights {
+    margin: 15px;
+    padding: 15px;
+    clear: both;
+    border-radius: 15px;
+    width: 250px;
+    height: 75px;
+    font-size: 1.5em;
+    font-family: oswald;
+    color: #F29976;
+    background-color: #B1EAF0;
+    box-shadow: #BD3008 4px 4px;
+}
+#findFlights:hover {
+    animation-name: buttonAnimation;
+    animation-duration: .5s;
+    color: #BD3008;
+    background-color: #3E5A8A;
+    box-shadow: none;
+    width: 300px;
+}
+
+/*Classes for the list div*/
+.list {
+    display: block;
+    padding: 5px;
+    margin: auto;
+    background-color: rgba(121,146,189,1);
+    border-radius: 15px;
+    margin-top: 10px;
+    text-align: center;
+    max-width: 50%;
+    box-shadow: #F29976 4px 4px;
+}
+.list:hover {
+    animation-name: listGrow;
+    animation-duration: .5s;
+    max-width: 55%;
+    background-color: #3E5A8A;
+}
+.list p{
+    display: inline-block;
+    width: 150px;
+    max-width: 150px;
+    font-family: oswald;
+}
+.list p:hover{
+    animation-name: itemGrow;
+    animation-duration: .5s;
+    width: 175px;
+    max-width: 175px;
+    padding: 15px;
+}
+.airlines{
+    text-align: center;
+    background-color: #BD3008;
+    padding: 5px;
+    border-radius: 15px;
+    color: #F29976;
+    box-shadow: #F29976 2px 2px;
+}
+.homeAirport {
+    text-align: center;
+    background-color: #3E5A8A;
+    padding: 5px;
+    border-radius: 15px;
+    color: rgb(177,234,240);
+    box-shadow: rgb(177,234,240) 2px 2px;
+}
+.to {
+    text-align: center;
+    background-color: rgb(177,234,240);
+    padding: 5px;
+    border-radius: 15px;
+    color: #3E5A8A;
+    box-shadow: #F29976 2px 2px;
+}
+.destination {
+    text-align: center;
+    background-color: #3E5A8A;
+    padding: 5px;
+    border-radius: 15px;
+    color: #F29976;
+    box-shadow: rgb(177,234,240) 2px 2px;
+}
+.price {
+    text-align: center;
+    background-color: #B3F5A5;
+    padding: 5px;
+    border-radius: 15px;
+    color: #00910F;
+    box-shadow: #00910F 2px 2px;
+}
+
+/*Fonts*/
+@font-face {
+    font-family: courgette;
+    src: url("resources/fonts/Courgette-Regular.ttf");
+}
+@font-face {
+    font-family: oswald;
+    src: url("resources/fonts/Oswald-VariableFont_wght.ttf")
+}
+
+/*Animations*/
+@keyframes listGrow{
+    from {
+        max-width: 50%;
+        background-color: rgba(121,146,189,1)
+    }
+    to {
+        max-width: 55%;
+        background-color: #3E5A8A;
+    }
+}
+@keyframes itemGrow{
+    from {
+        width: 150px;
+        max-width: 150px;
+    }
+    to {
+        width: 175px;
+        max-width: 175px;
+        padding: 15px;
+    }
+}
+@keyframes buttonAnimation{
+    from {
+        color: #F29976;
+        background-color: #B1EAF0;
+        box-shadow: #BD3008 4px 4px;
+        width: 250px;
+    }
+    to {
+        color: #BD3008;
+        background-color: #3E5A8A;
+        box-shadow: none;
+        width: 300px;
+    }
+}
+
+/*Media*/

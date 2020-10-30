@@ -1,0 +1,10 @@
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe.config
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.pdb
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csprojAssemblyReference.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.frmAreaAndPerimeter.resources
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.Properties.Resources.resources
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.GenerateResource.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.exe
+C:\Users\matsu\Google Drive\Semester_Fall_2020\C-Sharp\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.pdb

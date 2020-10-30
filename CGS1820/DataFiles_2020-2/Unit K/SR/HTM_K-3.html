@@ -1,0 +1,153 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>Big J&rsquo;s Deep Dish Pizza - Catering</title>
+      <!-- 
+         Big J's Deep Dish Pizza - Catering
+         Filename: catering.html
+
+         Author:   
+         Date:     
+         HTML5 and CSS3 Illustrated Unit K, Skills Review
+      -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <script src="modernizr.custom.10704.js"></script>
+      <link href='http://fonts.googleapis.com/css?family=Playfair+Display:900' rel='stylesheet' type='text/css'>
+      <link rel="stylesheet" href="styles.css">
+      <script src="respond.min.js"></script>
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="icon" sizes="192x192" href="images/android.png">
+   </head>
+   <body>
+      <div class="outer-container">
+         <p class="skipnavigation"><a href="#contentstart">Skip navigation</a></p> 
+         <aside>
+            <p class="decorative-image"><a href="index.html"><img src="images/bigjs.gif" width="280" height="280" alt="Big J's Deep Dish Pizza"></a></p>
+         </aside>
+         <header>
+            <h1>Big J&rsquo;s Deep Dish Pizza</h1>
+         </header>
+         <div class="inner-container">
+            <nav class="sitenavigation">
+               <ul>
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="history.html">History</a></li>
+                  <li><a href="location.html">Locations</a></li>
+                  <li><a href="catering.html">Catering</a></li>
+                  <li><a href="order.html">Order Online</a></li>
+               </ul>
+            </nav>
+            <article id="contentstart">
+               <h2>Catering</h2>
+               <form action="results.html">
+                  <p class="form-instructions">* indicates a required field</p>
+                  <fieldset class="contactinfo">
+                     <label for="nameinput">
+                        Name
+                        <input type="text" name="name" id="nameinput" required>
+                     </label>
+                     <label for="emailinput">
+                        Email
+                        <input type="email" name="email" id="emailinput" required>
+                     </label>
+                  </fieldset>
+                  <fieldset class="reserveinfo">
+                     <p>Event date</p>
+                     <div class="date-picker">
+                        <label for="start-month">Event Month</label>
+                        <select id="start-month" name="start-month">
+                           <option value="01">January</option>
+                           <option value="02">February</option>
+                           <option value="03">March</option>
+                           <option value="04">April</option>
+                           <option value="05">May</option>
+                           <option value="06">June</option>
+                           <option value="07">July</option>
+                           <option value="08">August</option>
+                           <option value="09">September</option>
+                           <option value="10">October</option>
+                           <option value="11">November</option>
+                           <option value="12">December</option>
+                        </select>
+                        <label for="start-day">Event Day</label>
+                        <select id="start-day" name="start-day">
+                           <option value="01">1</option>
+                           <option value="02">2</option>
+                           <option value="03">3</option>
+                           <option value="04">4</option>
+                           <option value="05">5</option>
+                           <option value="06">6</option>
+                           <option value="07">7</option>
+                           <option value="08">8</option>
+                           <option value="09">9</option>
+                           <option value="10">10</option>
+                           <option value="11">11</option>
+                           <option value="12">12</option>
+                           <option value="13">13</option>
+                           <option value="14">14</option>
+                           <option value="15">15</option>
+                           <option value="16">16</option>
+                           <option value="17">17</option>
+                           <option value="18">18</option>
+                           <option value="19">19</option>
+                           <option value="20">20</option>
+                           <option value="21">21</option>
+                           <option value="22">22</option>
+                           <option value="23">23</option>
+                           <option value="24">24</option>
+                           <option value="25">25</option>
+                           <option value="26">26</option>
+                           <option value="27">27</option>
+                           <option value="28">28</option>
+                           <option value="29">29</option>
+                           <option value="30">30</option>
+                           <option value="31">31</option>
+                        </select>
+                        <label for="start-year">Event Year</label>
+                        <select id="start-year" name="start-year">
+                           <option value="2019">2019</option>
+                           <option value="2020">2020</option>
+                           <option value="2021">2021</option>
+                        </select>
+                     </div>
+                     <label for="quote-meal" class="two-column">
+                        Meal
+                        <select id="quote-meal" name="meal" required>
+                           <option value="none"></option>
+                           <option value="breakfast">Breakfast</option>
+                           <option value="brunch">Brunch</option>
+                           <option value="lunch">Lunch</option>
+                           <option value="dinner">Dinner</option>
+                           <option value="other">Other</option>
+                        </select>
+                     </label>
+                     <label for="quote-guests" class="two-column">
+                        Number of guests
+                        <input type="number" name="guests" id="quote-guests" required>
+                     </label>
+                  </fieldset>
+                  <fieldset class="additionalinfo">
+                     <label for="other-info">
+                        Other information (hours, catering needs, etc.)
+                        <textarea name="other-info" id="other-info" rows="5" cols="50"></textarea>
+                     </label>
+                  </fieldset>
+                  <fieldset class="submitbutton">
+                     <input type="submit" id="submit" value="Submit">
+                  </fieldset>
+               </form>
+            </article>
+            <footer>
+               <p>150 St. Joseph St.</p>
+               <p class="accent">(416) 555-3337</p>
+               <p>360 Dundas St. W</p>
+               <p class="accent">(416) 555-1011</p>
+               <p>783 St. Clair Ave. W</p>
+               <p class="accent">(416) 555-2047</p>
+            </footer>
+         </div>
+      </div>
+   </body>
+</html>

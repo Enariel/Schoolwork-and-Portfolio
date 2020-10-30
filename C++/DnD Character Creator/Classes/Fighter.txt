@@ -1,0 +1,7 @@
+Fighter
+A master of martial combat, skilled with a variety of weapons and armor
+10
+0
+0
+1
+All armor, shields, simple and martial weapons

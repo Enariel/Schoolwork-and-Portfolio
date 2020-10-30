@@ -1,0 +1,25 @@
+/*
+Eating Well in Season style sheet
+styles.css
+Oliver Conover
+10/02/2020
+HTML5 and CSS3 Illustrated Unit C, Independent Challenge 4
+*/
+header {
+	background-color: olive;
+	color: floralwhite;
+	
+}
+footer {
+	background-color: olive;
+}
+h2 {
+	background-color: khaki;
+}
+.khaki {
+	color: khaki;
+}
+.contact {
+   text-align: right;
+   color: white;
+}

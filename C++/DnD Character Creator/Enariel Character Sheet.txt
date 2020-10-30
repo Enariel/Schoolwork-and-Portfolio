@@ -1,0 +1,56 @@
+* Character Name *
+          Enariel
+** Languages **
+          Common
+          Elvish
+          CHOICE
+          CHOICE
+          CHOICE
+
+** Stats ** 
+
+          * Race *
+
+               [Elf]
+
+                    Description: Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. They live in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light, where soft music drifts through the air and gentle fragrances waft on the breeze. Elves love nature and magic, art and artistry, music and poetry, and the good things of the world.
+
+          * Sub-Race *
+
+               [[High Elf]]
+
+                    Description: As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many of the worlds of D&D, there are two kinds of high elves. One type (which includes the gray elves and valley elves of Greyhawk, the Silvanesti of Dragonlance, and the sun elves of the Forgotten Realms) is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type (including the high elves of Greyhawk, the Qualinesti of Dragonlance, and the moon elves of the Forgotten Realms) are more common and more friendly, and often encountered among humans and other races.
+
+* Ability Score Increases *
+
+          Dexterity          2
+                    0
+          Intelligence          1
+
+** Special Passives **
+
+          -Darkvision
+          -Keen Senses
+          -Fey Ancestry
+          -Trance
+          --
+     * Sub-Race Bonus Passives *
+
+          -Elf Weapon Training
+          -Cantrip + 1
+          -Extra Language
+          --
+          --
+** Class Information **
+
+          Class: Sorcerer
+          Description: A spellcaster who draws on inherent magic from a gift or bloodline.
+     Details: 
+          Hitpoint Dice: 6
+          Primary Stat: Charisma
+          Proficiencies: 
+               Constitution
+               Charisma
+          Equipment Proficiency: 
+               Daggers, darts, slings, quarterstaffs, light crossbows.
+

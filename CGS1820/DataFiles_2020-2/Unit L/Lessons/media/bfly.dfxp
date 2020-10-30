@@ -1,0 +1,29 @@
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en">
+   <head>
+      <styling>
+         <style id="defaultCaption" tts:textAlign="center" tts:fontSize="20" tts:backgroundColor="transparent" tts:color="white" tts:fontFamily="SansSerif" tts:fontWeight="bold"/>
+      </styling>
+   </head>
+<body>
+   <div style="defaultCaption" xml:lang="en">
+      <p begin="00:00:01.00" dur="00:00:01.50">
+         [Birds tweeting]
+      </p>
+      <p begin="00:00:03.00" dur="00:00:04.00">
+         In June and July, Northern Minnesota comes alive with butterflies.
+      </p>
+      <p begin="00:00:08.00" dur="00:00:05.60">
+         In addition to widely beloved species such as the Monarch and the Tiger Swallowtail, 
+      </p>
+      <p begin="00:00:14.00" dur="00:00:07.00">
+         Minnesota summers are home to many other beautiful butterfly species, as well as breathtaking moths.
+      </p>
+      <p begin="00:00:22.00" dur="00:00:04.00">
+         Visit us at Lakeland Reeds, take a walk through our butterfly garden, 
+      </p>
+      <p begin="00:00:26.50" dur="00:00:04.50">
+         and we guarantee you’ll see something that will take your breath away.
+      </p>
+   </div>
+</body>
+</tt>

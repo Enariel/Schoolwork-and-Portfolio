@@ -1,0 +1,24 @@
+Author:  
+Date:  
+HTML5 and CSS3 Illustrated Unit P, Independent Challenge 2
+
+Murfreesboro Regional Soccer League
+Website Testing Plan
+
+1. Feedback
+   With user viewing index.html, ask
+   a. "Based only on this web page, tell me who you think this organization is for."
+   b. 
+   c. 
+   d. 
+   e. 
+   f. "Do you have any other impressions of this organization based on this web page?" [If yes: "Please describe them."]
+ 
+2. Tasks
+   "Now, using the website, please locate
+   a. 
+   b. 
+
+3. "Do you have any other feedback about this website?"
+
+"Thank you for your time and your help."
