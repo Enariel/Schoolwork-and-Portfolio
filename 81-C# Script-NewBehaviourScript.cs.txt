@@ -1,0 +1,24 @@
+//Copyright (c) FuchsFarbe
+
+using UnityEngine;
+
+/* ============================================
+*                   Name
+* --------------------------------------------
+*           - Summary of script - 
+*  ===========================================
+*/
+namespace Dragon_Stones
+{
+    public class #SCRIPTNAME# : MonoBehaviour
+    {
+        #region Variables
+
+	    //References
+
+	    //Variables
+
+        #endregion
+
+    }
+}
